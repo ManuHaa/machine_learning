@@ -1,0 +1,136 @@
+DATE,COUNTRY,LEAGUE,TYPE,SEASON,HOME_TEAM,AWAY_TEAM,FTR,FTHG,FTAG,HTR,HTHG,HTAG,ETR,ETHG,ETAG,PENR,PENHG,PENAG,H_ST,H_SOG,H_SFG,H_PT,H_COR,H_FL,H_YC,H_RC,A_ST,A_SOG,A_SFG,A_PT,A_COR,A_FL,A_YC,A_RC
+2022-08-05,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,FC Bayern München,A,1,6,A,0,5,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,37,5,10,2,0,23,10,13,63,6,11,0,0
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,SC Freiburg,A,0,4,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,2,9,53,5,13,0,0,23,9,14,47,8,13,0,0
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,Werder Bremen,D,2,2,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,61,2,11,2,0,11,5,6,39,5,14,2,0
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,Bayer 04 Leverkusen,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,45,3,11,2,0,10,5,5,55,3,13,4,1
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,Hertha BSC,H,3,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,5,3,2,48,5,23,2,0,1,1,0,52,4,17,3,0
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,TSG Hoffenheim,H,3,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,62,5,18,1,0,2,1,1,38,1,12,4,1
+2022-08-06,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,FSV Mainz 05,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,60,3,1,2,0,12,6,6,40,5,1,3,0
+2022-08-07,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,RB Leipzig,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,32,1,14,2,0,20,8,12,68,9,9,1,0
+2022-08-07,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,Schalke 04,H,3,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,26,7,19,75,9,8,0,0,6,2,4,25,1,10,1,1
+2022-08-12,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,Borussia Dortmund,A,1,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,39,9,16,1,0,13,5,8,61,2,10,3,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,FC Köln,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,8,4,52,2,8,1,1,14,5,9,48,7,18,4,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,VfL Bochum 1848,H,3,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,23,10,13,59,8,14,1,0,12,5,7,41,2,10,1,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,Eintracht Frankfurt,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,39,4,11,3,0,11,1,10,61,5,11,1,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,Borussia Mönchengladbach,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,32,2,12,4,0,15,9,6,68,7,8,2,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,FC Augsburg,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,22,10,12,67,7,7,1,0,7,5,2,33,3,15,6,0
+2022-08-13,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,VfB Stuttgart,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,57,2,6,4,0,14,7,7,43,5,10,2,0
+2022-08-14,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,FC Union Berlin,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,50,4,9,1,0,10,0,10,50,4,14,0,0
+2022-08-14,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,VfL Wolfsburg,H,2,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,24,12,12,68,8,7,2,0,9,4,5,32,4,10,1,0
+2022-08-19,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,Hertha BSC,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,64,5,7,1,0,21,5,16,36,5,11,2,1
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,Schalke 04,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,72,12,13,1,0,11,2,9,28,4,10,3,0
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,TSG Hoffenheim,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,56,3,14,1,0,8,5,3,44,1,17,4,0
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,Werder Bremen,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,49,3,13,4,0,15,7,8,51,5,9,1,0
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,SC Freiburg,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,60,3,8,4,0,9,3,6,40,1,12,2,0
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,RB Leipzig,H,2,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,26,1,15,2,0,16,1,15,74,13,8,1,0
+2022-08-20,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,FSV Mainz 05,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,51,3,13,2,0,13,6,7,49,3,19,2,0
+2022-08-21,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,FC Bayern München,A,0,7,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,35,5,10,1,0,23,13,10,65,5,6,0,0
+2022-08-21,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,FC Köln,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,53,5,2,0,0,5,2,3,47,9,0,1,0
+2022-08-26,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,VfL Bochum 1848,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,21,8,13,47,2,15,2,0,14,5,9,53,5,13,2,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,FC Augsburg,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,23,5,18,50,4,14,1,0,11,1,10,50,6,9,1,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,FC Union Berlin,A,1,6,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,59,8,9,1,0,12,7,5,41,2,10,0,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,Borussia Dortmund,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,0,12,38,6,8,1,0,21,6,15,62,10,9,0,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,Borussia Mönchengladbach,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,33,21,12,69,14,13,4,0,5,3,2,31,1,7,2,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,VfL Wolfsburg,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,42,8,20,3,0,9,4,5,58,4,15,3,0
+2022-08-27,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,Bayer 04 Leverkusen,A,0,3,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,61,3,10,1,0,9,5,4,39,4,12,6,2
+2022-08-28,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,VfB Stuttgart,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,64,6,14,2,0,14,6,8,36,8,11,2,1
+2022-08-28,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,Eintracht Frankfurt,A,3,4,A,2,3,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,55,5,17,1,0,13,7,6,45,7,18,3,0
+2022-09-02,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,TSG Hoffenheim,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,50,5,14,3,0,3,1,2,50,8,15,4,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,FC Köln,A,2,4,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,50,5,13,2,0,21,6,15,50,4,14,1,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,RB Leipzig,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,13,9,4,43,4,15,1,0,4,1,3,57,3,11,1,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,FC Bayern München,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,25,5,19,1,0,20,6,14,75,7,7,2,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,SC Freiburg,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,50,8,15,2,0,6,3,3,50,4,10,2,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,Schalke 04,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,1,12,43,5,11,4,1,14,2,12,57,7,10,2,0
+2022-09-03,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,Werder Bremen,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,50,7,15,2,0,17,7,10,50,3,10,2,0
+2022-09-04,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,Hertha BSC,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,2,9,48,5,12,2,0,16,6,10,52,1,15,1,0
+2022-09-04,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,FSV Mainz 05,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,53,4,8,1,1,13,3,10,47,8,15,4,0
+2022-09-09,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,FC Augsburg,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,70,3,12,4,0,16,8,8,30,7,13,5,0
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,VfL Bochum 1848,H,3,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,44,3,11,2,0,10,2,8,56,8,16,3,0
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,VfB Stuttgart,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,3,17,67,3,12,2,0,9,4,5,33,0,9,5,0
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,Borussia Dortmund,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,45,5,12,2,0,5,0,5,55,8,6,1,0
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,Bayer 04 Leverkusen,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,42,3,15,3,0,11,5,6,58,5,16,1,0
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,FSV Mainz 05,H,4,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,65,7,9,3,0,9,2,7,35,5,13,2,1
+2022-09-10,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,VfL Wolfsburg,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,0,10,63,10,16,2,0,8,4,4,37,5,13,4,0
+2022-09-11,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,FC Union Berlin,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,53,7,15,4,1,15,5,10,47,8,12,1,0
+2022-09-11,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,Borussia Mönchengladbach,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,42,7,13,1,0,16,5,11,58,6,6,1,0
+2022-09-16,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,Hertha BSC,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,2,9,56,4,12,3,0,4,2,2,44,3,10,5,0
+2022-09-17,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,FC Bayern München,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,5,5,23,2,16,3,0,22,7,15,77,8,9,1,0
+2022-09-17,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,Schalke 04,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,67,11,12,3,0,2,0,2,33,2,14,2,0
+2022-09-17,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,RB Leipzig,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,20,7,13,45,8,14,2,0,13,6,7,55,3,14,2,0
+2022-09-17,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,Eintracht Frankfurt,A,1,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,13,1,12,55,7,9,2,0,12,7,5,45,4,11,0,0
+2022-09-17,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,Werder Bremen,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,54,9,5,2,0,19,6,13,46,6,14,3,0
+2022-09-18,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,SC Freiburg,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,50,5,15,1,0,15,5,10,50,3,9,2,0
+2022-09-18,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,FC Köln,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,2,7,35,4,12,0,0,20,4,16,65,8,8,1,0
+2022-09-18,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,VfL Wolfsburg,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,48,4,18,0,0,6,0,6,52,1,6,0,0
+2022-09-30,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,Bayer 04 Leverkusen,H,4,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,21,11,10,62,6,10,0,0,10,4,6,38,2,6,0,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,Borussia Mönchengladbach,H,5,1,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,48,4,8,0,0,13,8,5,52,5,8,1,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,Borussia Dortmund,H,3,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,21,10,11,42,7,14,4,0,23,9,14,58,11,9,3,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,VfB Stuttgart,H,3,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,57,8,16,3,0,14,7,7,43,5,14,5,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,VfL Bochum 1848,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,9,7,70,7,8,0,0,2,1,1,30,2,8,2,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,FSV Mainz 05,H,2,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,53,5,9,2,0,16,1,15,47,5,15,4,0
+2022-10-01,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,FC Union Berlin,H,2,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,13,4,9,47,4,4,3,1,16,4,12,53,7,11,4,0
+2022-10-02,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,TSG Hoffenheim,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,43,2,5,2,0,16,5,11,57,6,15,1,0
+2022-10-02,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,FC Augsburg,A,2,3,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,17,7,10,56,8,11,2,0,13,6,7,44,4,10,6,1
+2022-10-07,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,Werder Bremen,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,46,3,12,3,0,9,3,6,54,3,19,3,0
+2022-10-08,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,FC Bayern München,D,2,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,44,7,8,3,0,9,3,6,56,4,11,6,1
+2022-10-08,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,RB Leipzig,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,36,4,12,1,0,13,3,10,64,2,12,1,0
+2022-10-08,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,Eintracht Frankfurt,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,46,9,12,2,0,12,3,9,54,4,10,1,0
+2022-10-08,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,VfL Wolfsburg,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,48,11,19,5,0,12,7,5,52,5,11,3,0
+2022-10-08,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,Schalke 04,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,8,6,60,3,9,1,0,3,1,2,40,3,17,1,0
+2022-10-09,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,SC Freiburg,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,42,4,10,2,0,9,4,5,58,2,7,1,0
+2022-10-09,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,FC Union Berlin,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,52,2,12,3,1,7,4,3,48,5,10,3,0
+2022-10-09,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,FC Köln,H,5,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,66,7,8,2,0,5,3,2,34,4,14,3,1
+2022-10-14,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,TSG Hoffenheim,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,51,4,12,2,0,20,8,12,49,5,8,2,0
+2022-10-15,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,VfL Bochum 1848,H,4,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,48,3,6,0,0,15,2,13,52,3,17,3,0
+2022-10-15,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,Borussia Mönchengladbach,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,55,7,13,3,0,8,5,3,45,6,11,3,0
+2022-10-15,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,FSV Mainz 05,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,68,3,3,1,0,10,5,5,32,3,11,2,0
+2022-10-15,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,Hertha BSC,H,3,2,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,60,8,16,2,0,15,4,11,40,4,8,3,0
+2022-10-15,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,Bayer 04 Leverkusen,H,5,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,49,7,10,0,0,5,2,3,51,1,9,4,1
+2022-10-16,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,FC Augsburg,H,3,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,64,5,11,2,0,7,3,4,36,3,15,4,0
+2022-10-16,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,Borussia Dortmund,H,2,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,23,5,15,1,0,13,6,7,77,8,5,2,0
+2022-10-16,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,SC Freiburg,H,5,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,17,7,10,66,5,8,0,0,6,0,6,34,5,9,2,0
+2022-10-21,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,FC Köln,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,56,5,13,1,0,6,2,4,44,4,14,5,1
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,VfB Stuttgart,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,17,11,6,61,9,7,1,0,12,3,9,39,2,8,0,0
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,FC Bayern München,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,41,7,12,3,0,21,9,12,59,5,8,2,0
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,RB Leipzig,D,3,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,32,3,15,7,1,17,6,11,68,6,11,1,0
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,Werder Bremen,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,7,18,61,6,14,2,0,10,1,9,39,2,12,2,1
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,Eintracht Frankfurt,A,1,3,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,60,3,9,3,0,17,6,11,40,2,20,2,0
+2022-10-22,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,VfL Wolfsburg,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,57,3,19,3,0,11,2,9,43,3,5,1,0
+2022-10-23,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,FC Union Berlin,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,47,3,14,1,0,8,3,5,53,7,10,3,0
+2022-10-23,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,Schalke 04,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,55,5,14,5,0,13,4,9,45,6,13,1,0
+2022-10-28,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,Hertha BSC,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,53,4,14,2,0,10,1,9,47,5,11,3,0
+2022-10-29,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,Borussia Dortmund,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,59,4,15,5,0,7,2,5,41,3,11,5,0
+2022-10-29,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,FC Augsburg,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,29,6,23,63,10,7,1,0,13,4,9,37,3,12,2,0
+2022-10-29,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,FSV Mainz 05,H,6,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,23,11,12,70,8,10,1,0,14,5,9,30,5,11,1,0
+2022-10-29,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,Bayer 04 Leverkusen,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,6,1,46,3,9,3,0,3,1,2,54,3,7,3,0
+2022-10-29,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,VfL Bochum 1848,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,52,7,8,1,0,10,2,8,48,2,17,1,0
+2022-10-30,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,Borussia Mönchengladbach,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,55,6,17,3,0,6,3,3,45,5,6,2,0
+2022-10-30,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,SC Freiburg,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,45,4,20,3,0,20,8,12,55,8,7,2,0
+2022-10-30,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,TSG Hoffenheim,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,35,5,11,1,0,6,1,5,65,4,10,2,1
+2022-11-04,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,VfB Stuttgart,H,3,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,55,3,13,2,0,15,4,11,45,5,16,1,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,FC Bayern München,A,2,3,A,2,3,N/A,N/A,N/A,N/A,N/A,N/A,7,6,1,28,2,13,0,0,14,6,8,72,7,9,0,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Dortmund,VfL Bochum 1848,H,3,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,61,2,7,1,0,8,3,5,39,5,14,1,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,Schalke 04,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,45,3,11,3,0,21,4,17,55,3,12,2,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,Eintracht Frankfurt,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,9,4,5,41,3,17,0,0,12,7,5,59,7,15,1,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,VfL Wolfsburg,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,2,13,56,9,15,1,0,10,3,7,44,4,6,1,0
+2022-11-05,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,RB Leipzig,A,1,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,37,6,9,4,0,16,8,8,63,3,9,2,0
+2022-11-06,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,FC Union Berlin,H,5,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,8,3,59,1,11,1,0,7,1,6,41,5,16,4,0
+2022-11-06,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,FC Köln,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,55,5,9,0,0,6,2,4,45,3,10,1,0
+2022-11-08,Germany,Bundesliga,LEAGUE,2022/2023,VfB Stuttgart,Hertha BSC,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,60,8,9,3,0,10,2,8,40,5,15,2,0
+2022-11-08,Germany,Bundesliga,LEAGUE,2022/2023,FC Bayern München,Werder Bremen,H,6,1,H,4,1,N/A,N/A,N/A,N/A,N/A,N/A,19,10,9,61,8,9,0,0,6,2,4,39,4,8,0,0
+2022-11-08,Germany,Bundesliga,LEAGUE,2022/2023,VfL Wolfsburg,Borussia Dortmund,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,37,6,11,3,0,20,8,12,63,9,12,2,0
+2022-11-08,Germany,Bundesliga,LEAGUE,2022/2023,VfL Bochum 1848,Borussia Mönchengladbach,H,2,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,46,6,11,1,0,9,3,6,54,3,14,3,0
+2022-11-09,Germany,Bundesliga,LEAGUE,2022/2023,Eintracht Frankfurt,TSG Hoffenheim,H,4,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,52,4,9,0,0,12,3,9,48,5,22,3,0
+2022-11-09,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,FSV Mainz 05,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,45,1,16,3,0,9,1,8,55,6,17,1,0
+2022-11-09,Germany,Bundesliga,LEAGUE,2022/2023,RB Leipzig,SC Freiburg,H,3,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,6,10,58,6,9,2,0,3,2,1,42,2,22,4,0
+2022-11-09,Germany,Bundesliga,LEAGUE,2022/2023,FC Köln,Bayer 04 Leverkusen,A,1,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,59,6,9,1,0,11,3,8,41,1,7,2,0
+2022-11-09,Germany,Bundesliga,LEAGUE,2022/2023,FC Union Berlin,FC Augsburg,D,2,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,20,7,13,59,6,7,1,0,6,2,4,41,3,10,4,0
+2022-11-11,Germany,Bundesliga,LEAGUE,2022/2023,Borussia Mönchengladbach,Borussia Dortmund,H,4,2,H,3,2,N/A,N/A,N/A,N/A,N/A,N/A,13,8,5,39,2,12,1,0,18,10,8,61,9,12,2,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,Werder Bremen,RB Leipzig,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,5,1,48,0,14,1,0,14,3,11,52,4,8,2,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,Bayer 04 Leverkusen,VfB Stuttgart,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,44,4,11,2,0,8,1,7,56,2,10,3,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,Hertha BSC,FC Köln,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,6,8,47,10,15,3,0,9,2,7,53,5,10,1,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,Schalke 04,FC Bayern München,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,2,0,2,30,4,7,0,0,18,5,13,70,5,4,0,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,TSG Hoffenheim,VfL Wolfsburg,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,23,9,14,60,7,15,0,0,6,3,3,40,1,11,3,0
+2022-11-12,Germany,Bundesliga,LEAGUE,2022/2023,FC Augsburg,VfL Bochum 1848,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,55,6,12,1,0,11,4,7,45,2,9,1,0
+2022-11-13,Germany,Bundesliga,LEAGUE,2022/2023,SC Freiburg,FC Union Berlin,H,4,1,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,8,6,2,73,2,13,0,0,3,2,1,27,1,9,1,1
+2022-11-13,Germany,Bundesliga,LEAGUE,2022/2023,FSV Mainz 05,Eintracht Frankfurt,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,39,5,12,2,0,11,4,7,61,2,8,2,0

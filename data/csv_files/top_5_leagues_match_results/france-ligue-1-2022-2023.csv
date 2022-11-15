@@ -1,0 +1,151 @@
+DATE,COUNTRY,LEAGUE,TYPE,SEASON,HOME_TEAM,AWAY_TEAM,FTR,FTHG,FTAG,HTR,HTHG,HTAG,ETR,ETHG,ETAG,PENR,PENHG,PENAG,H_ST,H_SOG,H_SFG,H_PT,H_COR,H_FL,H_YC,H_RC,A_ST,A_SOG,A_SFG,A_PT,A_COR,A_FL,A_YC,A_RC
+2022-08-05,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Ajaccio,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,68,4,10,1,1,8,4,4,32,3,18,6,1
+2022-08-06,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Monaco,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,13,8,5,53,3,17,0,0,28,14,14,47,7,15,2,0
+2022-08-06,France,Ligue 1,LEAGUE,2022/2023,Clermont,Paris Saint Germain,A,0,5,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,8,1,7,39,0,13,2,0,20,12,8,61,6,13,1,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Lille,Auxerre,H,4,1,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,60,7,10,2,0,11,2,9,40,2,9,1,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Nice,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,46,6,10,1,0,13,5,8,54,3,8,2,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Rennes,Lorient,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,64,7,11,3,0,7,3,4,36,2,5,1,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Nantes,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,49,3,15,3,0,13,4,9,51,6,13,3,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Reims,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,56,6,14,1,0,16,6,10,44,7,10,0,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Lens,Brest,H,3,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,6,10,62,6,16,2,0,7,5,2,38,3,14,4,0
+2022-08-07,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Troyes,H,3,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,53,3,13,1,0,17,10,7,47,6,10,0,0
+2022-08-12,France,Ligue 1,LEAGUE,2022/2023,Nantes,Lille,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,30,5,14,1,0,18,1,17,70,11,10,4,0
+2022-08-13,France,Ligue 1,LEAGUE,2022/2023,Monaco,Rennes,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,34,1,6,0,1,23,8,15,66,6,11,3,0
+2022-08-13,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Montpellier,H,5,2,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,12,11,59,11,15,2,0,6,3,3,41,0,18,1,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Troyes,Toulouse,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,1,11,32,6,14,2,0,12,5,7,68,6,19,1,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Lens,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,2,7,36,1,2,5,0,13,4,9,64,3,3,2,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Nice,Strasbourg,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,54,7,7,1,0,9,5,4,46,3,13,4,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Reims,Clermont,A,2,4,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,10,5,5,41,1,1,3,1,11,6,5,59,6,0,3,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Angers SCO,D,2,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,13,6,7,40,4,0,5,1,11,2,9,60,5,1,3,0
+2022-08-14,France,Ligue 1,LEAGUE,2022/2023,Brest,Olympique Marseille,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,46,7,10,1,0,5,2,3,54,5,15,4,0
+2022-08-19,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Troyes,H,4,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,66,4,9,0,0,4,1,3,34,5,7,1,0
+2022-08-20,France,Ligue 1,LEAGUE,2022/2023,Monaco,Lens,A,1,4,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,46,3,18,4,1,14,6,8,54,5,13,0,0
+2022-08-20,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Nantes,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,6,10,56,7,15,5,1,13,4,9,44,4,6,1,0
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Rennes,Ajaccio,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,55,4,13,5,2,12,5,7,45,8,11,2,0
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Brest,A,1,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,6,5,1,51,3,9,2,1,12,8,4,49,6,10,0,0
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Auxerre,A,1,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,9,5,64,7,10,1,2,8,2,6,36,2,13,3,2
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Clermont,Nice,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,48,3,4,1,0,12,3,9,52,6,21,2,2
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Lorient,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,52,3,14,2,0,12,3,9,48,6,10,1,0
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Reims,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,2,9,64,5,12,1,0,14,7,7,36,4,16,4,0
+2022-08-21,France,Ligue 1,LEAGUE,2022/2023,Lille,Paris Saint Germain,A,1,7,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,48,2,13,2,0,17,10,7,52,4,8,1,0
+2022-08-26,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Lille,A,1,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,4,1,3,42,6,13,3,0,6,4,2,58,0,13,2,0
+2022-08-27,France,Ligue 1,LEAGUE,2022/2023,Lens,Rennes,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,4,14,51,7,15,0,0,12,6,6,49,2,13,1,0
+2022-08-27,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Strasbourg,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,42,2,4,0,0,14,4,10,58,5,6,1,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Nantes,Toulouse,H,3,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,50,4,11,0,0,8,1,7,50,5,9,3,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Troyes,Angers SCO,H,3,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,13,14,49,8,8,2,0,7,2,5,51,3,12,3,1
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Brest,Montpellier,A,0,7,A,0,5,N/A,N/A,N/A,N/A,N/A,N/A,8,1,7,52,5,15,0,1,13,8,5,48,4,16,2,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Reims,Olympique Lyonnais,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,26,2,12,1,1,18,5,13,74,7,12,1,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Nice,Olympique Marseille,A,0,3,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,17,2,15,49,7,7,1,0,12,3,9,51,5,15,1,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Monaco,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,18,5,13,67,4,12,4,0,4,3,1,33,3,15,4,0
+2022-08-28,France,Ligue 1,LEAGUE,2022/2023,Lorient,Clermont,H,2,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,21,10,11,39,3,12,1,0,9,2,7,61,4,9,3,1
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Clermont,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,21,8,13,60,7,16,2,0,3,0,3,40,1,12,2,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Reims,A,2,4,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,59,4,9,1,0,11,5,6,41,3,15,6,1
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Lens,Lorient,H,5,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,58,4,10,1,0,11,4,7,42,5,6,3,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Monaco,Troyes,A,2,4,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,8,6,2,52,8,13,3,1,19,11,8,48,6,11,1,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Ajaccio,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,38,3,9,2,1,15,1,14,62,8,17,4,1
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Lille,Nice,A,1,2,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,63,6,15,1,0,3,2,1,37,3,21,4,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Nantes,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,46,3,13,0,0,12,4,8,54,6,18,3,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Auxerre,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,21,7,14,62,9,13,0,0,6,2,4,38,3,13,2,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Rennes,Brest,H,3,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,8,10,65,7,11,2,0,7,2,5,35,3,6,0,0
+2022-08-31,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Paris Saint Germain,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,38,3,10,1,0,21,13,8,62,9,7,0,0
+2022-09-03,France,Ligue 1,LEAGUE,2022/2023,Nantes,Paris Saint Germain,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,41,1,6,1,1,20,4,16,59,7,12,4,0
+2022-09-03,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Olympique Marseille,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,47,4,8,1,0,15,7,8,53,1,14,1,0
+2022-09-03,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Angers SCO,H,5,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,15,8,64,13,5,2,0,8,2,6,36,3,9,1,0
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Reims,Lens,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,4,13,36,4,9,2,0,18,3,15,64,4,11,2,1
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Troyes,Rennes,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,1,7,29,3,13,2,1,19,6,13,71,5,22,2,0
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Brest,Strasbourg,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,59,7,15,3,0,11,4,7,41,3,9,1,1
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Lille,A,1,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,24,1,8,0,1,26,5,21,76,9,11,4,0
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Nice,Monaco,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,53,3,10,2,0,13,3,10,47,6,12,1,0
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Lorient,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,3,14,58,3,16,4,0,8,4,4,42,3,12,1,0
+2022-09-04,France,Ligue 1,LEAGUE,2022/2023,Clermont,Toulouse,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,33,4,14,4,0,13,4,9,67,6,12,1,0
+2022-09-07,France,Ligue 1,LEAGUE,2022/2023,Lorient,Olympique Lyonnais,H,3,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,33,1,8,1,0,15,8,7,67,6,18,3,0
+2022-09-09,France,Ligue 1,LEAGUE,2022/2023,Lens,Troyes,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,63,9,16,2,0,7,2,5,37,1,10,1,0
+2022-09-10,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Brest,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,61,3,13,4,0,7,2,5,39,5,16,2,0
+2022-09-10,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Lille,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,6,8,53,4,22,5,0,6,3,3,47,3,17,1,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Clermont,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,43,3,20,4,1,11,2,9,57,5,15,2,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Montpellier,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,45,2,1,2,0,8,2,6,55,5,0,4,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Lorient,Nantes,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,48,2,1,2,0,10,5,5,52,5,0,3,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Monaco,Olympique Lyonnais,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,39,1,12,1,0,16,5,11,61,6,9,2,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Rennes,Auxerre,H,5,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,8,3,48,2,11,1,0,9,1,8,52,1,9,1,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Nice,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,44,2,9,1,0,12,3,9,56,3,11,5,0
+2022-09-11,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Reims,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,47,4,1,2,0,10,1,9,53,6,0,2,1
+2022-09-16,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Lorient,A,1,3,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,57,9,13,3,0,11,7,4,43,5,11,1,0
+2022-09-17,France,Ligue 1,LEAGUE,2022/2023,Lille,Toulouse,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,45,5,20,2,0,15,5,10,55,7,14,0,0
+2022-09-17,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Strasbourg,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,50,8,11,4,0,7,2,5,50,6,20,4,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Rennes,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,59,11,13,3,0,13,6,7,41,7,13,4,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Brest,Ajaccio,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,59,6,13,2,0,6,3,3,41,2,12,2,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Nantes,Lens,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,42,3,1,1,0,8,2,6,58,7,0,1,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Paris Saint Germain,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,34,3,14,0,0,16,9,7,66,7,4,2,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Reims,Monaco,A,0,3,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,32,5,14,3,1,21,9,12,68,4,16,3,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Clermont,Troyes,A,1,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,2,13,59,5,8,0,0,10,4,6,41,1,15,3,0
+2022-09-18,France,Ligue 1,LEAGUE,2022/2023,Nice,Angers SCO,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,50,5,9,0,1,16,2,14,50,4,11,4,1
+2022-09-30,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Olympique Marseille,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,43,6,9,0,0,14,6,8,57,3,14,0,0
+2022-10-01,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Nice,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,57,4,16,1,0,5,1,4,43,0,9,1,0
+2022-10-01,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Rennes,A,1,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,39,1,9,0,1,18,7,11,61,5,13,2,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Clermont,A,1,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,52,4,0,3,0,7,4,3,48,4,1,3,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Brest,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,49,0,15,4,1,9,2,7,51,6,18,4,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Troyes,Reims,D,2,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,67,10,13,4,0,7,2,5,33,2,13,2,1
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Monaco,Nantes,H,4,1,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,10,5,5,48,7,8,0,0,8,3,5,52,7,10,1,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Lorient,Lille,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,37,0,13,3,1,22,6,16,63,14,14,3,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Montpellier,H,4,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,43,3,0,5,1,23,3,20,57,12,1,4,0
+2022-10-02,France,Ligue 1,LEAGUE,2022/2023,Lens,Olympique Lyonnais,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,22,7,15,52,6,19,2,0,4,0,4,48,2,16,2,0
+2022-10-07,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Toulouse,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,58,4,13,2,0,5,3,2,42,5,11,2,0
+2022-10-08,France,Ligue 1,LEAGUE,2022/2023,Reims,Paris Saint Germain,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,4,21,37,7,20,3,0,12,3,9,63,3,12,5,1
+2022-10-08,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Ajaccio,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,65,11,17,0,0,8,2,6,35,2,18,2,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Clermont,Auxerre,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,8,3,48,4,4,0,0,13,4,9,52,4,17,0,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Nice,Troyes,H,3,2,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,61,5,8,1,0,17,6,11,39,5,9,1,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Strasbourg,A,2,3,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,13,6,7,55,6,16,1,0,16,8,8,45,6,14,1,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Rennes,Nantes,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,58,4,13,1,1,8,3,5,42,3,14,0,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Brest,Lorient,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,50,7,14,3,0,13,5,8,50,8,13,1,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Lille,Lens,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,6,6,45,5,0,3,0,10,2,8,55,9,1,5,0
+2022-10-09,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Monaco,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,1,11,51,7,13,2,0,11,8,3,49,2,16,3,0
+2022-10-14,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Lille,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,43,3,12,3,0,7,5,2,57,0,17,1,0
+2022-10-15,France,Ligue 1,LEAGUE,2022/2023,Lorient,Reims,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,48,2,10,1,0,8,1,7,52,2,17,3,2
+2022-10-15,France,Ligue 1,LEAGUE,2022/2023,Lens,Montpellier,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,66,4,12,2,0,8,2,6,34,5,10,2,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Angers SCO,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,6,9,55,2,12,3,0,14,5,9,45,8,15,2,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Rennes,Olympique Lyonnais,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,40,3,13,2,0,9,6,3,60,2,14,2,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Troyes,Ajaccio,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,4,9,50,3,8,2,0,15,6,9,50,5,14,1,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Olympique Marseille,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,50,7,9,1,0,19,7,12,50,6,16,1,1
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Nantes,Brest,H,4,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,54,7,13,0,0,13,4,9,46,5,10,2,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Monaco,Clermont,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,35,3,8,3,1,19,5,14,65,4,11,4,0
+2022-10-16,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Nice,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,45,2,11,0,0,10,2,8,55,6,3,0,0
+2022-10-21,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Paris Saint Germain,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,8,2,6,35,3,13,0,0,12,6,6,65,8,13,1,0
+2022-10-22,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Olympique Lyonnais,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,37,4,9,2,1,22,11,11,63,7,18,2,1
+2022-10-22,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Lens,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,56,7,19,3,0,13,5,8,44,3,20,3,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Clermont,Brest,A,1,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,62,7,10,4,0,19,11,8,38,4,17,1,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Nice,Nantes,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,6,6,66,7,9,3,0,11,5,6,34,3,9,4,2
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Reims,Auxerre,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,9,9,54,8,13,4,0,13,2,11,46,2,12,0,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Lille,Monaco,H,4,3,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,60,6,8,1,0,8,6,2,40,6,10,2,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Troyes,Lorient,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,43,3,8,2,0,21,6,15,57,6,9,0,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Rennes,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,8,2,6,30,5,9,2,0,14,5,9,70,6,11,2,0
+2022-10-23,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Strasbourg,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,48,6,14,2,1,11,5,6,52,6,8,1,0
+2022-10-28,France,Ligue 1,LEAGUE,2022/2023,Lens,Toulouse,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,7,5,53,6,12,2,0,9,0,9,47,8,13,1,0
+2022-10-29,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Troyes,H,4,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,19,11,8,67,8,9,0,0,14,4,10,33,4,12,3,0
+2022-10-29,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Olympique Marseille,D,2,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,50,3,14,0,0,13,4,9,50,0,11,2,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Rennes,Montpellier,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,56,3,15,1,0,8,2,6,44,4,12,2,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Auxerre,Ajaccio,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,41,5,13,1,1,5,1,4,59,5,12,1,1
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Nantes,Clermont,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,55,2,15,0,0,8,4,4,45,2,9,2,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Monaco,Angers SCO,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,52,7,18,3,0,9,4,5,48,0,15,3,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Brest,Reims,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,6,7,51,5,15,1,0,10,3,7,49,5,13,1,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Lorient,Nice,A,1,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,44,8,7,0,0,17,7,10,56,3,7,1,0
+2022-10-30,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Lille,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,45,3,11,3,0,15,6,9,55,6,15,1,0
+2022-11-04,France,Ligue 1,LEAGUE,2022/2023,Troyes,Auxerre,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,21,5,16,50,10,9,2,0,15,2,13,50,5,10,0,0
+2022-11-05,France,Ligue 1,LEAGUE,2022/2023,Angers SCO,Lens,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,44,3,16,1,0,13,5,8,56,4,6,2,0
+2022-11-05,France,Ligue 1,LEAGUE,2022/2023,Ajaccio,Strasbourg,H,4,2,H,4,2,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,49,4,15,0,1,9,5,4,51,3,20,4,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Olympique Marseille,Olympique Lyonnais,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,46,6,9,0,0,11,4,7,54,4,13,1,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Nice,Brest,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,10,5,56,2,6,1,0,12,2,10,44,6,11,1,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Toulouse,Monaco,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,49,7,9,0,0,23,10,13,51,6,11,1,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Reims,Nantes,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,23,10,13,57,10,7,2,0,15,4,11,43,4,14,4,1
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Clermont,Montpellier,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,54,5,14,1,0,7,3,4,46,1,17,2,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Lorient,Paris Saint Germain,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,41,5,10,1,0,16,8,8,59,8,9,1,0
+2022-11-06,France,Ligue 1,LEAGUE,2022/2023,Lille,Rennes,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,62,6,9,4,0,3,2,1,38,2,14,1,1
+2022-11-11,France,Ligue 1,LEAGUE,2022/2023,Olympique Lyonnais,Nice,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,2,7,63,3,7,1,0,13,5,8,37,4,7,0,0
+2022-11-12,France,Ligue 1,LEAGUE,2022/2023,Lens,Clermont,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,61,5,1,1,0,7,4,3,39,3,0,3,0
+2022-11-12,France,Ligue 1,LEAGUE,2022/2023,Rennes,Toulouse,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,47,4,9,0,0,11,5,6,53,4,10,0,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Lille,Angers SCO,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,4,5,58,2,18,3,1,9,2,7,42,6,12,1,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Nantes,Ajaccio,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,53,9,16,3,0,14,5,9,47,6,17,3,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Strasbourg,Lorient,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,20,4,16,61,4,9,4,0,7,2,5,39,2,9,1,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Paris Saint Germain,Auxerre,H,5,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,59,3,5,0,0,10,3,7,41,7,7,0,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Montpellier,Reims,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,49,11,15,2,0,17,6,11,51,7,15,2,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Monaco,Olympique Marseille,A,2,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,8,3,42,5,17,3,0,8,3,5,58,4,9,1,0
+2022-11-13,France,Ligue 1,LEAGUE,2022/2023,Brest,Troyes,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,6,10,54,5,13,3,0,11,3,8,46,5,12,2,1

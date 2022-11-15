@@ -1,0 +1,147 @@
+DATE,COUNTRY,LEAGUE,TYPE,SEASON,HOME_TEAM,AWAY_TEAM,FTR,FTHG,FTAG,HTR,HTHG,HTAG,ETR,ETHG,ETAG,PENR,PENHG,PENAG,H_ST,H_SOG,H_SFG,H_PT,H_COR,H_FL,H_YC,H_RC,A_ST,A_SOG,A_SFG,A_PT,A_COR,A_FL,A_YC,A_RC
+2022-08-05,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Arsenal,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,56,3,16,1,0,10,2,8,44,5,11,2,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Aston Villa,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,5,3,2,34,5,18,3,0,9,1,8,66,5,16,3,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,Leeds United,Wolverhampton Wanderers,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,40,6,13,2,0,15,6,9,60,4,9,0,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Southampton,H,4,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,18,8,6,58,10,11,3,0,10,2,5,42,2,6,0,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,Everton,Chelsea,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,37,4,14,3,0,15,6,9,63,16,11,2,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,Newcastle United,Nottingham Forest,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,23,9,14,61,11,9,0,0,5,1,4,39,1,14,3,0
+2022-08-06,England,Premier League,LEAGUE,2022/2023,Fulham,Liverpool,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,33,4,7,2,0,11,3,8,67,4,9,0,0
+2022-08-07,England,Premier League,LEAGUE,2022/2023,Leicester City,Brentford,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,55,5,6,0,0,9,4,5,45,6,5,0,0
+2022-08-07,England,Premier League,LEAGUE,2022/2023,Manchester United,Brighton & Hove Albion,A,1,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,63,6,7,4,0,15,4,11,37,2,12,1,0
+2022-08-07,England,Premier League,LEAGUE,2022/2023,West Ham United,Manchester City,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,25,1,8,0,0,14,2,12,75,4,4,1,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Arsenal,Leicester City,H,4,2,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,50,6,15,1,0,7,3,4,50,2,9,1,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Fulham,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,1,5,60,5,7,3,0,9,0,9,40,3,14,3,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Brentford,Manchester United,H,4,0,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,33,8,6,0,0,15,4,11,67,2,15,4,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Manchester City,AFC Bournemouth,H,4,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,8,12,67,11,9,0,0,3,1,2,33,1,9,3,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Newcastle United,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,55,7,8,2,0,5,1,4,45,3,6,3,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Aston Villa,Everton,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,58,5,9,4,0,15,4,11,42,8,7,1,0
+2022-08-13,England,Premier League,LEAGUE,2022/2023,Southampton,Leeds United,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,42,2,10,1,0,11,5,6,58,5,12,3,0
+2022-08-14,England,Premier League,LEAGUE,2022/2023,Chelsea,Tottenham Hotspur,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,64,8,9,3,0,8,3,5,36,5,9,0,0
+2022-08-14,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,West Ham United,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,6,7,43,6,10,4,0,19,5,14,57,7,11,1,0
+2022-08-15,England,Premier League,LEAGUE,2022/2023,Liverpool,Crystal Palace,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,24,4,20,73,4,7,2,1,7,3,4,27,2,8,4,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,Everton,Nottingham Forest,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,48,6,6,3,0,13,4,9,52,2,9,2,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Wolverhampton Wanderers,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,50,8,10,2,0,20,3,17,50,6,8,2,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,Fulham,Brentford,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,44,6,13,3,0,15,6,9,56,3,7,2,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,Leicester City,Southampton,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,62,2,11,2,0,9,3,6,38,5,15,3,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Aston Villa,H,3,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,10,8,51,4,16,2,0,14,4,10,49,2,14,1,0
+2022-08-20,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Arsenal,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,42,3,12,2,0,13,5,8,58,4,10,1,0
+2022-08-21,England,Premier League,LEAGUE,2022/2023,Leeds United,Chelsea,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,12,6,6,39,4,16,0,0,14,3,11,61,6,15,3,1
+2022-08-21,England,Premier League,LEAGUE,2022/2023,Newcastle United,Manchester City,D,3,3,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,12,6,6,31,5,14,4,0,21,10,11,69,5,7,2,0
+2022-08-21,England,Premier League,LEAGUE,2022/2023,West Ham United,Brighton & Hove Albion,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,49,5,10,2,0,11,2,9,51,4,7,0,0
+2022-08-22,England,Premier League,LEAGUE,2022/2023,Manchester United,Liverpool,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,30,6,11,3,0,17,5,12,70,8,7,1,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Arsenal,Fulham,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,72,9,6,2,0,11,3,8,28,2,12,3,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Leeds United,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,4,9,43,5,10,2,0,10,2,8,57,3,14,3,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Chelsea,Leicester City,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,45,3,10,3,1,19,7,12,55,11,7,2,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Manchester City,Crystal Palace,H,4,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,18,5,13,74,6,14,1,0,4,4,0,26,1,8,2,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Southampton,Manchester United,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,4,13,48,5,4,0,0,11,6,5,52,3,14,3,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Brentford,Everton,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,18,5,13,58,8,8,2,0,13,6,7,42,5,8,2,0
+2022-08-27,England,Premier League,LEAGUE,2022/2023,Liverpool,AFC Bournemouth,H,9,0,H,5,0,N/A,N/A,N/A,N/A,N/A,N/A,20,13,7,69,8,6,0,0,5,2,3,31,1,5,1,0
+2022-08-28,England,Premier League,LEAGUE,2022/2023,Aston Villa,West Ham United,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,58,3,10,2,0,8,2,6,42,2,10,0,0
+2022-08-28,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Newcastle United,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,36,4,10,2,0,21,6,15,64,13,11,1,0
+2022-08-28,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Tottenham Hotspur,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,1,16,55,6,11,6,0,19,7,12,45,1,13,1,0
+2022-08-30,England,Premier League,LEAGUE,2022/2023,Southampton,Chelsea,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,9,5,4,32,5,15,2,0,10,5,5,68,3,10,1,0
+2022-08-30,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Brentford,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,4,9,49,4,11,1,0,10,3,7,51,6,8,2,0
+2022-08-30,England,Premier League,LEAGUE,2022/2023,Fulham,Brighton & Hove Albion,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,39,3,0,2,0,7,3,4,61,3,1,1,0
+2022-08-30,England,Premier League,LEAGUE,2022/2023,Leeds United,Everton,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,69,10,10,3,0,7,2,5,31,2,9,3,0
+2022-08-31,England,Premier League,LEAGUE,2022/2023,Arsenal,Aston Villa,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,59,10,10,2,0,4,3,1,41,3,14,3,0
+2022-08-31,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Wolverhampton Wanderers,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,34,2,12,2,0,18,3,15,66,5,12,1,0
+2022-08-31,England,Premier League,LEAGUE,2022/2023,Liverpool,Newcastle United,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,23,6,17,72,13,9,0,0,5,2,3,28,0,10,2,0
+2022-08-31,England,Premier League,LEAGUE,2022/2023,Manchester City,Nottingham Forest,H,6,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,75,10,9,0,0,7,1,6,25,1,7,1,0
+2022-08-31,England,Premier League,LEAGUE,2022/2023,West Ham United,Tottenham Hotspur,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,38,3,10,2,0,12,4,8,62,4,10,5,0
+2022-09-01,England,Premier League,LEAGUE,2022/2023,Leicester City,Manchester United,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,54,1,7,1,0,9,2,7,46,3,15,3,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Brentford,Leeds United,H,5,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,31,2,8,2,0,16,6,10,69,6,9,2,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Chelsea,West Ham United,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,68,10,6,4,0,8,4,4,32,3,11,2,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,AFC Bournemouth,A,2,3,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,53,4,13,2,0,8,3,5,47,6,10,1,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Everton,Liverpool,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,39,7,7,2,0,22,8,14,61,9,11,2,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Aston Villa,Manchester City,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,3,1,2,27,1,7,2,0,13,4,9,73,4,6,0,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Newcastle United,Crystal Palace,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,22,7,15,52,13,19,2,0,20,9,11,48,5,12,1,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Fulham,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,24,11,13,52,10,9,3,0,7,3,4,48,3,6,4,0
+2022-09-03,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Southampton,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,51,5,10,4,0,13,2,11,49,6,14,2,0
+2022-09-04,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Leicester City,H,5,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,23,11,12,54,10,6,1,0,6,4,2,46,1,8,1,0
+2022-09-04,England,Premier League,LEAGUE,2022/2023,Manchester United,Arsenal,H,3,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,6,3,40,2,13,3,0,16,3,13,60,5,9,3,0
+2022-09-16,England,Premier League,LEAGUE,2022/2023,Aston Villa,Southampton,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,53,6,13,3,0,7,1,6,47,3,13,1,0
+2022-09-16,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Fulham,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,41,2,11,2,0,15,7,8,59,10,10,4,0
+2022-09-17,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Manchester City,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,41,5,7,2,1,16,7,9,59,7,9,1,0
+2022-09-17,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Leicester City,H,6,2,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,44,6,9,1,0,21,8,13,56,1,9,2,0
+2022-09-17,England,Premier League,LEAGUE,2022/2023,Newcastle United,AFC Bournemouth,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,20,7,13,72,8,10,2,0,10,5,5,28,1,11,2,0
+2022-09-18,England,Premier League,LEAGUE,2022/2023,Everton,West Ham United,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,54,5,8,3,0,14,4,10,46,14,11,1,0
+2022-09-18,England,Premier League,LEAGUE,2022/2023,Brentford,Arsenal,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,36,3,10,0,0,13,7,6,64,3,10,2,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Chelsea,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,3,4,36,5,11,1,0,13,3,10,64,2,13,3,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,Arsenal,Tottenham Hotspur,H,3,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,22,9,13,65,5,10,2,0,7,3,4,35,2,10,1,1
+2022-10-01,England,Premier League,LEAGUE,2022/2023,West Ham United,Wolverhampton Wanderers,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,5,13,40,1,9,2,0,15,4,11,60,6,6,2,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Brentford,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,0,7,42,7,11,1,0,13,4,9,58,8,10,2,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,Southampton,Everton,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,54,7,11,2,0,14,6,8,46,6,10,2,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,Fulham,Newcastle United,A,1,4,A,0,3,N/A,N/A,N/A,N/A,N/A,N/A,4,1,3,32,1,9,2,1,18,10,8,68,8,10,0,0
+2022-10-01,England,Premier League,LEAGUE,2022/2023,Liverpool,Brighton & Hove Albion,D,3,3,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,20,9,11,54,9,9,1,0,6,6,0,46,2,13,1,0
+2022-10-02,England,Premier League,LEAGUE,2022/2023,Leeds United,Aston Villa,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,44,2,23,5,1,19,7,12,56,9,12,2,0
+2022-10-02,England,Premier League,LEAGUE,2022/2023,Manchester City,Manchester United,H,6,3,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,22,10,12,54,5,3,0,0,12,7,5,46,1,9,3,0
+2022-10-03,England,Premier League,LEAGUE,2022/2023,Leicester City,Nottingham Forest,H,4,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,17,7,10,52,6,13,2,0,10,3,7,48,6,12,4,0
+2022-10-08,England,Premier League,LEAGUE,2022/2023,Chelsea,Wolverhampton Wanderers,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,57,4,8,2,0,8,2,6,43,2,8,0,0
+2022-10-08,England,Premier League,LEAGUE,2022/2023,Manchester City,Southampton,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,21,8,13,65,9,4,0,0,5,0,5,35,1,8,1,0
+2022-10-08,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Leicester City,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,5,4,44,7,8,1,0,9,4,5,56,2,16,2,0
+2022-10-08,England,Premier League,LEAGUE,2022/2023,Newcastle United,Brentford,H,5,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,54,9,14,0,0,8,4,4,46,5,9,1,0
+2022-10-08,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Tottenham Hotspur,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,59,6,9,1,0,8,3,5,41,2,14,2,0
+2022-10-09,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Leeds United,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,55,5,13,3,0,10,4,6,45,3,23,3,0
+2022-10-09,England,Premier League,LEAGUE,2022/2023,Arsenal,Liverpool,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,11,7,4,44,4,7,1,0,8,3,5,56,3,8,2,0
+2022-10-09,England,Premier League,LEAGUE,2022/2023,Everton,Manchester United,A,1,2,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,40,5,7,2,0,12,4,8,60,4,13,1,0
+2022-10-09,England,Premier League,LEAGUE,2022/2023,West Ham United,Fulham,H,3,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,50,4,9,1,0,8,2,6,50,2,7,3,0
+2022-10-10,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Aston Villa,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,40,1,13,3,0,12,2,10,60,4,19,3,0
+2022-10-14,England,Premier League,LEAGUE,2022/2023,Brentford,Brighton & Hove Albion,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,28,2,12,3,0,21,7,14,72,11,15,1,0
+2022-10-15,England,Premier League,LEAGUE,2022/2023,Fulham,AFC Bournemouth,D,2,2,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,19,4,15,69,5,9,2,0,10,6,4,31,6,11,0,0
+2022-10-15,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Nottingham Forest,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,58,4,17,2,0,10,2,8,42,5,13,2,0
+2022-10-15,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Everton,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,21,7,14,62,7,12,1,0,4,0,4,38,1,13,4,0
+2022-10-15,England,Premier League,LEAGUE,2022/2023,Leicester City,Crystal Palace,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,6,8,53,9,18,2,0,8,1,7,47,2,13,2,0
+2022-10-16,England,Premier League,LEAGUE,2022/2023,Aston Villa,Chelsea,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,41,7,12,0,0,8,4,4,59,1,11,3,0
+2022-10-16,England,Premier League,LEAGUE,2022/2023,Leeds United,Arsenal,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,47,6,10,0,0,10,5,5,53,3,11,2,0
+2022-10-16,England,Premier League,LEAGUE,2022/2023,Manchester United,Newcastle United,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,63,4,13,3,0,9,2,7,37,4,11,1,0
+2022-10-16,England,Premier League,LEAGUE,2022/2023,Liverpool,Manchester City,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,3,10,37,5,10,3,0,16,5,11,63,6,7,1,0
+2022-10-16,England,Premier League,LEAGUE,2022/2023,Southampton,West Ham United,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,9,6,3,39,4,7,1,0,26,4,22,61,14,3,1,0
+2022-10-18,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Wolverhampton Wanderers,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,51,4,14,3,0,10,4,6,49,2,18,1,0
+2022-10-18,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Nottingham Forest,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,70,9,10,3,0,2,0,2,30,1,14,1,0
+2022-10-19,England,Premier League,LEAGUE,2022/2023,Liverpool,West Ham United,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,22,6,16,54,8,9,0,0,8,3,5,46,3,8,0,0
+2022-10-19,England,Premier League,LEAGUE,2022/2023,Brentford,Chelsea,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,34,6,7,0,0,14,5,9,66,2,7,0,0
+2022-10-19,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Southampton,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,54,7,8,1,0,8,3,5,46,3,13,3,0
+2022-10-19,England,Premier League,LEAGUE,2022/2023,Manchester United,Tottenham Hotspur,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,28,10,18,52,8,7,1,0,8,2,6,48,3,7,0,0
+2022-10-19,England,Premier League,LEAGUE,2022/2023,Newcastle United,Everton,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,50,8,9,2,0,1,0,1,50,2,12,4,0
+2022-10-20,England,Premier League,LEAGUE,2022/2023,Fulham,Aston Villa,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,60,9,11,0,0,12,6,6,40,7,11,2,1
+2022-10-20,England,Premier League,LEAGUE,2022/2023,Leicester City,Leeds United,H,2,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,47,2,15,2,0,14,2,12,53,9,11,1,0
+2022-10-22,England,Premier League,LEAGUE,2022/2023,Everton,Crystal Palace,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,46,3,16,3,0,8,2,6,54,4,14,4,0
+2022-10-22,England,Premier League,LEAGUE,2022/2023,Manchester City,Brighton & Hove Albion,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,48,6,11,1,0,10,2,8,52,3,12,3,0
+2022-10-22,England,Premier League,LEAGUE,2022/2023,Chelsea,Manchester United,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,48,6,8,1,0,13,6,7,52,4,10,4,0
+2022-10-22,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Liverpool,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,7,3,25,2,14,2,0,15,7,8,75,11,8,1,0
+2022-10-23,England,Premier League,LEAGUE,2022/2023,Aston Villa,Brentford,H,4,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,45,7,14,1,0,10,3,7,55,6,11,0,0
+2022-10-23,England,Premier League,LEAGUE,2022/2023,Southampton,Arsenal,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,41,9,11,2,0,11,3,8,59,4,8,1,0
+2022-10-23,England,Premier League,LEAGUE,2022/2023,Leeds United,Fulham,A,2,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,57,3,12,1,0,11,4,7,43,6,8,1,0
+2022-10-23,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Newcastle United,A,1,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,52,6,12,4,0,13,5,8,48,7,6,2,0
+2022-10-23,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Leicester City,A,0,4,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,61,9,10,2,0,5,4,1,39,2,12,1,0
+2022-10-24,England,Premier League,LEAGUE,2022/2023,West Ham United,AFC Bournemouth,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,4,16,54,5,9,0,0,5,3,2,46,0,11,2,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Newcastle United,Aston Villa,H,4,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,19,7,12,60,3,11,1,0,3,0,3,40,0,11,1,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Chelsea,H,4,1,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,7,13,41,8,16,1,0,16,7,9,59,7,6,2,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Fulham,Everton,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,24,6,18,57,13,10,2,0,9,4,5,43,4,8,1,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Liverpool,Leeds United,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,22,10,12,69,14,9,0,0,14,6,8,31,4,3,1,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Leicester City,Manchester City,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,5,5,36,3,5,0,0,16,5,11,64,10,10,0,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Tottenham Hotspur,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,31,2,10,1,0,27,6,21,69,19,5,2,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Crystal Palace,Southampton,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,44,8,13,3,0,15,5,10,56,4,12,3,0
+2022-10-29,England,Premier League,LEAGUE,2022/2023,Brentford,Wolverhampton Wanderers,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,58,3,10,3,0,15,4,11,42,6,17,3,1
+2022-10-30,England,Premier League,LEAGUE,2022/2023,Arsenal,Nottingham Forest,H,5,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,69,9,9,0,0,5,2,3,31,4,8,1,0
+2022-10-30,England,Premier League,LEAGUE,2022/2023,Manchester United,West Ham United,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,53,5,12,1,0,13,4,9,47,10,10,3,0
+2022-11-05,England,Premier League,LEAGUE,2022/2023,Leeds United,AFC Bournemouth,H,4,3,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,61,13,16,2,0,5,4,1,39,3,10,2,0
+2022-11-05,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Brentford,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,16,7,9,47,3,10,2,0,7,2,5,53,3,11,2,0
+2022-11-05,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Brighton & Hove Albion,A,2,3,D,2,2,N/A,N/A,N/A,N/A,N/A,N/A,10,5,5,29,4,15,2,1,19,8,11,71,9,11,0,0
+2022-11-05,England,Premier League,LEAGUE,2022/2023,Manchester City,Fulham,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,71,9,6,2,1,4,2,2,29,0,11,4,0
+2022-11-05,England,Premier League,LEAGUE,2022/2023,Everton,Leicester City,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,48,8,9,0,0,22,8,14,52,3,5,0,0
+2022-11-06,England,Premier League,LEAGUE,2022/2023,Chelsea,Arsenal,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,44,4,19,5,0,14,2,12,56,6,13,2,0
+2022-11-06,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Liverpool,A,1,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,47,5,10,0,0,13,6,7,53,3,8,0,0
+2022-11-06,England,Premier League,LEAGUE,2022/2023,Aston Villa,Manchester United,H,3,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,42,3,6,3,0,7,4,3,58,5,12,3,0
+2022-11-06,England,Premier League,LEAGUE,2022/2023,West Ham United,Crystal Palace,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,42,2,10,1,0,13,5,8,58,5,7,1,0
+2022-11-06,England,Premier League,LEAGUE,2022/2023,Southampton,Newcastle United,A,1,4,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,55,8,7,1,0,7,4,3,45,2,10,0,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,AFC Bournemouth,Everton,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,36,3,12,2,0,15,3,12,64,5,8,0,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Newcastle United,Chelsea,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,49,5,14,4,0,5,2,3,51,3,11,2,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Liverpool,Southampton,H,3,1,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,60,6,8,0,0,9,5,4,40,0,8,2,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Tottenham Hotspur,Leeds United,H,4,3,A,1,2,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,55,9,8,1,0,11,6,5,45,2,7,3,1
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Wolverhampton Wanderers,Arsenal,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,2,9,37,6,5,3,0,14,4,10,63,4,6,2,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,West Ham United,Leicester City,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,18,7,11,54,7,9,3,0,7,3,4,46,2,8,1,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Manchester City,Brentford,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,28,5,23,75,10,9,2,0,10,7,3,25,2,7,2,0
+2022-11-12,England,Premier League,LEAGUE,2022/2023,Nottingham Forest,Crystal Palace,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,2,7,32,1,11,1,0,8,1,7,68,5,13,4,0
+2022-11-13,England,Premier League,LEAGUE,2022/2023,Brighton & Hove Albion,Aston Villa,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,65,11,14,2,0,8,2,6,35,4,11,7,0
+2022-11-13,England,Premier League,LEAGUE,2022/2023,Fulham,Manchester United,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,53,10,9,1,0,14,9,5,47,3,10,1,0

@@ -1,0 +1,446 @@
+DATE,COUNTRY,LEAGUE,TYPE,SEASON,HOME_TEAM,AWAY_TEAM,FTR,FTHG,FTAG,HTR,HTHG,HTAG,ETR,ETHG,ETAG,PENR,PENHG,PENAG,H_ST,H_SOG,H_SFG,H_PT,H_COR,H_FL,H_YC,H_RC,A_ST,A_SOG,A_SFG,A_PT,A_COR,A_FL,A_YC,A_RC
+2022-08-04,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Slovácko,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,0,1,8,1,0,3,0,3,0,1,19,3,0
+2022-08-04,Europe,Europa League,CUP,2022/2023,Shamrock Rovers,Shkupi,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,12,9,3,0,4,10,4,0,13,9,4,0,6,13,4,0
+2022-08-04,Europe,Europa League,CUP,2022/2023,Linfield,Zürich,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,4,1,3,51,7,12,4,0,9,3,6,49,0,17,2,0
+2022-08-04,Europe,Europa League,CUP,2022/2023,Maribor,HJK,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,0,6,0,2,0,10,4,6,0,2,0,3,0
+2022-08-04,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Slovan Bratislava,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,4,12,0,7,0,2,0,8,6,2,0,3,0,1,0
+2022-08-04,Europe,Europa League,CUP,2022/2023,Malmö FF,F91 Dudelange,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,7,10,SNV,6,18,3,0,6,1,5,SNV,2,8,3,1
+2022-08-04,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Partizan,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,8,6,2,0,8,0,2,0,10,4,6,0,3,0,4,0
+2022-08-09,Europe,Europa League,CUP,2022/2023,Shkupi,Shamrock Rovers,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,0,6,0,5,0,8,6,2,0,4,0,5,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,Slovan Bratislava,Olympiakos Piraeus,D,2,2,D,0,0,D,2,2,A,3,4,19,10,9,0,7,11,5,1,10,5,5,0,1,15,2,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,Slovácko,Fenerbahçe,D,1,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,0,2,0,1,0,7,4,3,0,1,0,2,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,Zürich,Linfield,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,0,4,15,2,0,3,1,2,0,4,8,3,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,Partizan,AEK Larnaca,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,7,5,0,4,0,3,0,11,3,8,0,3,0,1,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,HJK,Maribor,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,6,7,0,4,0,2,0,9,3,6,0,2,0,4,0
+2022-08-11,Europe,Europa League,CUP,2022/2023,F91 Dudelange,Malmö FF,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,23,9,14,0,7,0,5,0,6,3,3,0,5,0,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,HJK,Silkeborg,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,44,5,12,2,0,3,0,3,56,4,4,2,1
+2022-08-18,Europe,Europa League,CUP,2022/2023,HJK,Silkeborg,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,44,5,12,2,0,3,0,3,56,4,4,2,1
+2022-08-18,Europe,Europa League,CUP,2022/2023,HJK,Silkeborg,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,44,5,12,2,0,3,0,3,56,4,4,2,1
+2022-08-18,Europe,Europa League,CUP,2022/2023,HJK,Silkeborg,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,3,3,44,5,12,2,0,3,0,3,56,4,4,2,1
+2022-08-18,Europe,Europa League,CUP,2022/2023,Malmö FF,Sivasspor,H,3,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,12,5,7,59,5,17,3,0,10,4,6,41,4,11,4,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Ludogorets,Žalgiris,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,57,10,22,4,0,5,2,3,43,4,20,3,1
+2022-08-18,Europe,Europa League,CUP,2022/2023,Gent,Omonia Nicosia,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,67,6,SNV,1,0,7,2,5,33,3,SNV,4,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Zürich,Hearts,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,47,7,12,2,0,6,2,4,53,0,13,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Zürich,Hearts,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,47,7,12,2,0,6,2,4,53,0,13,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Zürich,Hearts,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,47,7,12,2,0,6,2,4,53,0,13,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Zürich,Hearts,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,19,6,13,47,7,12,2,0,6,2,4,53,0,13,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Ferencváros,Shamrock Rovers,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,25,14,11,49,7,SNV,2,0,3,1,2,51,1,SNV,3,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Ferencváros,Shamrock Rovers,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,25,14,11,49,7,SNV,2,0,3,1,2,51,1,SNV,3,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Ferencváros,Shamrock Rovers,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,25,14,11,49,7,SNV,2,0,3,1,2,51,1,SNV,3,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Ferencváros,Shamrock Rovers,H,4,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,25,14,11,49,7,SNV,2,0,3,1,2,51,1,SNV,3,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Austria Wien,Fenerbahçe,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,8,2,6,38,6,11,2,1,8,3,5,62,3,10,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Apollon,Olympiakos Piraeus,D,1,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,55,5,SNV,0,0,11,5,6,45,0,SNV,2,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Pyunik,Sheriff,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,49,4,SNV,1,0,6,1,5,51,3,SNV,1,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Pyunik,Sheriff,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,49,4,SNV,1,0,6,1,5,51,3,SNV,1,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Pyunik,Sheriff,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,49,4,SNV,1,0,6,1,5,51,3,SNV,1,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Pyunik,Sheriff,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,49,4,SNV,1,0,6,1,5,51,3,SNV,1,0
+2022-08-18,Europe,Europa League,CUP,2022/2023,Dnipro-1,AEK Larnaca,A,1,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,63,8,SNV,1,1,15,9,6,37,8,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Žalgiris,Ludogorets,D,3,3,H,2,1,D,3,3,N/A,N/A,N/A,11,4,7,46,4,21,5,0,18,9,9,54,7,17,5,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dnipro-1,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,39,5,SNV,3,0,20,7,13,61,5,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dnipro-1,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,39,5,SNV,3,0,20,7,13,61,5,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dnipro-1,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,39,5,SNV,3,0,20,7,13,61,5,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dnipro-1,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,8,5,3,39,5,SNV,3,0,20,7,13,61,5,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Shamrock Rovers,Ferencváros,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,50,3,9,2,0,8,2,6,50,2,13,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Shamrock Rovers,Ferencváros,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,50,3,9,2,0,8,2,6,50,2,13,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Shamrock Rovers,Ferencváros,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,50,3,9,2,0,8,2,6,50,2,13,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Shamrock Rovers,Ferencváros,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,50,3,9,2,0,8,2,6,50,2,13,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Sivasspor,Malmö FF,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,1,9,50,5,14,4,0,10,5,5,50,3,6,3,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Gent,H,2,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,9,8,1,38,0,SNV,2,0,10,2,8,62,2,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Austria Wien,H,4,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,17,10,7,64,6,SNV,0,0,8,3,5,36,0,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Hearts,Zürich,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,57,7,12,3,1,11,2,9,43,3,11,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Hearts,Zürich,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,57,7,12,3,1,11,2,9,43,3,11,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Hearts,Zürich,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,57,7,12,3,1,11,2,9,43,3,11,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Hearts,Zürich,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,57,7,12,3,1,11,2,9,43,3,11,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Sheriff,Pyunik,D,0,0,D,0,0,N/A,N/A,N/A,H,3,2,17,2,15,59,12,SNV,3,0,5,2,3,41,0,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Sheriff,Pyunik,D,0,0,D,0,0,N/A,N/A,N/A,H,3,2,17,2,15,59,12,SNV,3,0,5,2,3,41,0,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Sheriff,Pyunik,D,0,0,D,0,0,N/A,N/A,N/A,H,3,2,17,2,15,59,12,SNV,3,0,5,2,3,41,0,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Sheriff,Pyunik,D,0,0,D,0,0,N/A,N/A,N/A,H,3,2,17,2,15,59,12,SNV,3,0,5,2,3,41,0,SNV,2,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Silkeborg,HJK,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,SNV,10,SNV,3,0,4,3,1,SNV,1,SNV,3,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Silkeborg,HJK,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,SNV,10,SNV,3,0,4,3,1,SNV,1,SNV,3,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Silkeborg,HJK,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,SNV,10,SNV,3,0,4,3,1,SNV,1,SNV,3,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Silkeborg,HJK,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,8,11,SNV,10,SNV,3,0,4,3,1,SNV,1,SNV,3,0
+2022-08-25,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Apollon,D,1,1,H,1,0,D,0,0,H,3,1,2,1,1,SNV,8,17,4,1,5,2,3,SNV,3,20,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Dynamo Kyiv,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,7,4,65,8,19,5,0,4,2,2,35,2,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Dynamo Kyiv,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,7,4,65,8,19,5,0,4,2,2,35,2,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Dynamo Kyiv,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,7,4,65,8,19,5,0,4,2,2,35,2,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Dynamo Kyiv,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,7,4,65,8,19,5,0,4,2,2,35,2,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Sheriff,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,60,3,0,2,0,13,6,7,40,4,2,4,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Sheriff,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,60,3,0,2,0,13,6,7,40,4,2,4,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Sheriff,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,60,3,0,2,0,13,6,7,40,4,2,4,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Sheriff,A,0,3,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,2,10,60,3,0,2,0,13,6,7,40,4,2,4,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,PSV,Bodø / Glimt,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,50,5,12,2,0,10,3,7,50,4,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,PSV,Bodø / Glimt,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,50,5,12,2,0,10,3,7,50,4,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,PSV,Bodø / Glimt,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,50,5,12,2,0,10,3,7,50,4,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,PSV,Bodø / Glimt,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,50,5,12,2,0,10,3,7,50,4,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Monaco,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,50,8,2,3,0,9,3,6,50,5,3,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Monaco,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,50,8,2,3,0,9,3,6,50,5,3,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Monaco,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,50,8,2,3,0,9,3,6,50,5,3,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Monaco,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,50,8,2,3,0,9,3,6,50,5,3,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Nantes,Olympiakos Piraeus,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,53,10,0,3,0,5,2,3,47,2,1,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Nantes,Olympiakos Piraeus,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,53,10,0,3,0,5,2,3,47,2,1,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Nantes,Olympiakos Piraeus,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,53,10,0,3,0,5,2,3,47,2,1,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Nantes,Olympiakos Piraeus,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,53,10,0,3,0,5,2,3,47,2,1,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Malmö FF,Sporting Braga,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,44,4,12,5,0,17,8,9,56,5,10,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Malmö FF,Sporting Braga,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,44,4,12,5,0,17,8,9,56,5,10,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Malmö FF,Sporting Braga,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,44,4,12,5,0,17,8,9,56,5,10,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Malmö FF,Sporting Braga,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,1,8,44,4,12,5,0,17,8,9,56,5,10,2,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Sturm Graz,Midtjylland,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,36,5,4,6,1,9,2,7,64,3,0,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Sturm Graz,Midtjylland,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,36,5,4,6,1,9,2,7,64,3,0,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Sturm Graz,Midtjylland,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,36,5,4,6,1,9,2,7,64,3,0,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Sturm Graz,Midtjylland,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,36,5,4,6,1,9,2,7,64,3,0,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Lazio,Feyenoord,H,4,2,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,63,7,1,1,0,17,4,13,37,2,2,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Lazio,Feyenoord,H,4,2,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,63,7,1,1,0,17,4,13,37,2,2,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Lazio,Feyenoord,H,4,2,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,63,7,1,1,0,17,4,13,37,2,2,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Lazio,Feyenoord,H,4,2,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,63,7,1,1,0,17,4,13,37,2,2,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,HJK,Real Betis,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,48,4,12,1,0,18,6,12,52,6,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,HJK,Real Betis,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,48,4,12,1,0,18,6,12,52,6,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,HJK,Real Betis,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,48,4,12,1,0,18,6,12,52,6,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,HJK,Real Betis,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,5,2,3,48,4,12,1,0,18,6,12,52,6,12,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ferencváros,Trabzonspor,H,3,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,24,6,1,4,1,23,8,15,76,6,1,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ferencváros,Trabzonspor,H,3,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,24,6,1,4,1,23,8,15,76,6,1,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ferencváros,Trabzonspor,H,3,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,24,6,1,4,1,23,8,15,76,6,1,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ferencváros,Trabzonspor,H,3,2,H,3,1,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,24,6,1,4,1,23,8,15,76,6,1,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,SC Freiburg,Qarabağ,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,46,2,1,2,0,15,6,9,54,4,1,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,SC Freiburg,Qarabağ,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,46,2,1,2,0,15,6,9,54,4,1,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,SC Freiburg,Qarabağ,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,46,2,1,2,0,15,6,9,54,4,1,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,SC Freiburg,Qarabağ,H,2,1,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,14,5,9,46,2,1,2,0,15,6,9,54,4,1,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Zürich,Arsenal,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,30,5,11,1,0,19,9,10,70,8,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Zürich,Arsenal,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,30,5,11,1,0,19,9,10,70,8,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Zürich,Arsenal,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,30,5,11,1,0,19,9,10,70,8,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Zürich,Arsenal,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,30,5,11,1,0,19,9,10,70,8,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Manchester United,Real Sociedad,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,55,5,8,3,0,7,3,4,45,3,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Manchester United,Real Sociedad,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,55,5,8,3,0,7,3,4,45,3,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Manchester United,Real Sociedad,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,55,5,8,3,0,7,3,4,45,3,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Manchester United,Real Sociedad,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,2,12,55,5,8,3,0,7,3,4,45,3,16,3,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Union Saint-Gilloise,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,59,5,13,2,1,7,3,4,41,2,6,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Union Saint-Gilloise,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,59,5,13,2,1,7,3,4,41,2,6,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Union Saint-Gilloise,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,59,5,13,2,1,7,3,4,41,2,6,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Union Saint-Gilloise,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,4,8,59,5,13,2,1,7,3,4,41,2,6,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Rennes,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,3,12,1,0,18,7,11,52,9,14,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Rennes,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,3,12,1,0,18,7,11,52,9,14,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Rennes,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,3,12,1,0,18,7,11,52,9,14,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Rennes,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,3,12,1,0,18,7,11,52,9,14,1,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ludogorets,Roma,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,44,4,19,3,0,19,5,14,56,9,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ludogorets,Roma,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,44,4,19,3,0,19,5,14,56,9,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ludogorets,Roma,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,44,4,19,3,0,19,5,14,56,9,7,0,0
+2022-09-08,Europe,Europa League,CUP,2022/2023,Ludogorets,Roma,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,44,4,19,3,0,19,5,14,56,9,7,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Zürich,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,59,6,6,1,0,11,3,8,41,3,12,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Zürich,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,59,6,6,1,0,11,3,8,41,3,12,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Zürich,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,59,6,6,1,0,11,3,8,41,3,12,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Zürich,H,2,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,19,5,14,59,6,6,1,0,11,3,8,41,3,12,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Qarabağ,Nantes,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,60,5,9,1,0,11,4,7,40,5,6,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Qarabağ,Nantes,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,60,5,9,1,0,11,4,7,40,5,6,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Qarabağ,Nantes,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,60,5,9,1,0,11,4,7,40,5,6,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Qarabağ,Nantes,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,60,5,9,1,0,11,4,7,40,5,6,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sporting Braga,FC Union Berlin,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,54,4,11,2,0,14,5,9,46,3,16,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sporting Braga,FC Union Berlin,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,54,4,11,2,0,14,5,9,46,3,16,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sporting Braga,FC Union Berlin,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,54,4,11,2,0,14,5,9,46,3,16,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sporting Braga,FC Union Berlin,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,3,7,54,4,11,2,0,14,5,9,46,3,16,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Roma,HJK,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,29,10,19,67,7,19,2,0,5,1,4,33,1,9,2,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Roma,HJK,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,29,10,19,67,7,19,2,0,5,1,4,33,1,9,2,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Roma,HJK,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,29,10,19,67,7,19,2,0,5,1,4,33,1,9,2,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Roma,HJK,H,3,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,29,10,19,67,7,19,2,0,5,1,4,33,1,9,2,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,AEK Larnaca,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,64,7,15,2,0,8,3,5,36,2,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,AEK Larnaca,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,64,7,15,2,0,8,3,5,36,2,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,AEK Larnaca,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,64,7,15,2,0,8,3,5,36,2,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,AEK Larnaca,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,64,7,15,2,0,8,3,5,36,2,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Rennes,Fenerbahçe,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,37,7,11,3,1,9,4,5,63,4,11,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Rennes,Fenerbahçe,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,37,7,11,3,1,9,4,5,63,4,11,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Rennes,Fenerbahçe,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,37,7,11,3,1,9,4,5,63,4,11,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Rennes,Fenerbahçe,D,2,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,37,7,11,3,1,9,4,5,63,4,11,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Monaco,Ferencváros,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,57,9,11,1,0,10,4,6,43,5,6,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Monaco,Ferencváros,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,57,9,11,1,0,10,4,6,43,5,6,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Monaco,Ferencváros,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,57,9,11,1,0,10,4,6,43,5,6,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Monaco,Ferencváros,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,57,9,11,1,0,10,4,6,43,5,6,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Trabzonspor,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,61,6,10,2,0,7,2,5,39,3,14,4,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Trabzonspor,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,61,6,10,2,0,7,2,5,39,3,14,4,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Trabzonspor,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,61,6,10,2,0,7,2,5,39,3,14,4,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Trabzonspor,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,61,6,10,2,0,7,2,5,39,3,14,4,1
+2022-09-15,Europe,Europa League,CUP,2022/2023,Midtjylland,Lazio,H,5,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,35,2,8,2,0,14,3,11,65,4,14,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Midtjylland,Lazio,H,5,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,35,2,8,2,0,14,3,11,65,4,14,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Midtjylland,Lazio,H,5,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,35,2,8,2,0,14,3,11,65,4,14,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Midtjylland,Lazio,H,5,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,35,2,8,2,0,14,3,11,65,4,14,1,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sheriff,Manchester United,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,32,2,14,2,0,7,3,4,68,4,12,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sheriff,Manchester United,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,32,2,14,2,0,7,3,4,68,4,12,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sheriff,Manchester United,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,32,2,14,2,0,7,3,4,68,4,12,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Sheriff,Manchester United,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,10,2,8,32,2,14,2,0,7,3,4,68,4,12,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Sociedad,Omonia Nicosia,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,71,6,18,1,0,3,1,2,29,1,11,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Sociedad,Omonia Nicosia,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,71,6,18,1,0,3,1,2,29,1,11,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Sociedad,Omonia Nicosia,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,71,6,18,1,0,3,1,2,29,1,11,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Sociedad,Omonia Nicosia,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,71,6,18,1,0,3,1,2,29,1,11,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Betis,Ludogorets,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,54,4,12,4,0,9,6,3,46,8,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Betis,Ludogorets,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,54,4,12,4,0,9,6,3,46,8,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Betis,Ludogorets,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,54,4,12,4,0,9,6,3,46,8,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Real Betis,Ludogorets,H,3,2,H,2,1,N/A,N/A,N/A,N/A,N/A,N/A,15,9,6,54,4,12,4,0,9,6,3,46,8,13,4,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Malmö FF,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,9,4,66,5,8,1,0,3,2,1,34,4,13,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Malmö FF,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,9,4,66,5,8,1,0,3,2,1,34,4,13,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Malmö FF,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,9,4,66,5,8,1,0,3,2,1,34,4,13,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Malmö FF,H,3,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,13,9,4,66,5,8,1,0,3,2,1,34,4,13,0,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Feyenoord,Sturm Graz,H,6,0,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,14,10,4,71,7,12,0,0,9,3,6,29,4,6,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Feyenoord,Sturm Graz,H,6,0,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,14,10,4,71,7,12,0,0,9,3,6,29,4,6,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Feyenoord,Sturm Graz,H,6,0,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,14,10,4,71,7,12,0,0,9,3,6,29,4,6,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Feyenoord,Sturm Graz,H,6,0,H,4,0,N/A,N/A,N/A,N/A,N/A,N/A,14,10,4,71,7,12,0,0,9,3,6,29,4,6,3,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,SC Freiburg,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,47,4,9,1,0,15,8,7,53,4,14,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,SC Freiburg,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,47,4,9,1,0,15,8,7,53,4,14,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,SC Freiburg,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,47,4,9,1,0,15,8,7,53,4,14,2,0
+2022-09-15,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,SC Freiburg,A,0,3,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,47,4,9,1,0,15,8,7,53,4,14,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Malmö FF,FC Union Berlin,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,72,2,16,2,0,19,6,13,28,6,11,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Malmö FF,FC Union Berlin,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,72,2,16,2,0,19,6,13,28,6,11,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Malmö FF,FC Union Berlin,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,72,2,16,2,0,19,6,13,28,6,11,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Malmö FF,FC Union Berlin,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,72,2,16,2,0,19,6,13,28,6,11,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Manchester United,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,27,4,8,2,0,28,7,21,73,5,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Manchester United,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,27,4,8,2,0,28,7,21,73,5,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Manchester United,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,27,4,8,2,0,28,7,21,73,5,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Manchester United,A,2,3,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,8,4,4,27,4,8,2,0,28,7,21,73,5,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Zürich,PSV,A,1,5,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,46,0,11,0,0,17,9,8,54,3,11,0,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Zürich,PSV,A,1,5,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,46,0,11,0,0,17,9,8,54,3,11,0,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Zürich,PSV,A,1,5,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,46,0,11,0,0,17,9,8,54,3,11,0,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Zürich,PSV,A,1,5,A,0,4,N/A,N/A,N/A,N/A,N/A,N/A,11,5,6,46,0,11,0,0,17,9,8,54,3,11,0,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,SC Freiburg,Nantes,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,59,5,7,3,0,14,2,12,41,5,7,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,SC Freiburg,Nantes,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,59,5,7,3,0,14,2,12,41,5,7,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,SC Freiburg,Nantes,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,59,5,7,3,0,14,2,12,41,5,7,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,SC Freiburg,Nantes,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,59,5,7,3,0,14,2,12,41,5,7,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Monaco,Trabzonspor,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,56,6,11,2,0,6,2,4,44,1,6,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Monaco,Trabzonspor,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,56,6,11,2,0,6,2,4,44,1,6,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Monaco,Trabzonspor,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,56,6,11,2,0,6,2,4,44,1,6,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Monaco,Trabzonspor,H,3,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,23,8,15,56,6,11,2,0,6,2,4,44,1,6,1,1
+2022-10-06,Europe,Europa League,CUP,2022/2023,Rennes,Dynamo Kyiv,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,54,9,13,0,0,7,2,5,46,3,10,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Rennes,Dynamo Kyiv,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,54,9,13,0,0,7,2,5,46,3,10,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Rennes,Dynamo Kyiv,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,54,9,13,0,0,7,2,5,46,3,10,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Rennes,Dynamo Kyiv,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,21,6,15,54,9,13,0,0,7,2,5,46,3,10,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sturm Graz,Lazio,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,14,5,1,10,7,3,61,2,13,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sturm Graz,Lazio,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,14,5,1,10,7,3,61,2,13,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sturm Graz,Lazio,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,14,5,1,10,7,3,61,2,13,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sturm Graz,Lazio,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,14,5,1,10,7,3,61,2,13,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,HJK,Ludogorets,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,51,6,10,3,0,13,7,6,49,2,11,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,HJK,Ludogorets,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,51,6,10,3,0,13,7,6,49,2,11,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,HJK,Ludogorets,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,51,6,10,3,0,13,7,6,49,2,11,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,HJK,Ludogorets,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,51,6,10,3,0,13,7,6,49,2,11,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Ferencváros,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,44,1,14,3,0,10,3,7,56,5,14,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Ferencváros,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,44,1,14,3,0,10,3,7,56,5,14,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Ferencváros,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,44,1,14,3,0,10,3,7,56,5,14,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Ferencváros,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,15,8,7,44,1,14,3,0,10,3,7,56,5,14,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Arsenal,Bodø / Glimt,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,50,6,8,1,0,10,3,7,50,0,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Arsenal,Bodø / Glimt,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,50,6,8,1,0,10,3,7,50,0,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Arsenal,Bodø / Glimt,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,50,6,8,1,0,10,3,7,50,0,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Arsenal,Bodø / Glimt,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,17,6,11,50,6,8,1,0,10,3,7,50,0,8,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sheriff,Real Sociedad,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,34,2,8,3,1,8,3,5,66,6,13,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sheriff,Real Sociedad,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,34,2,8,3,1,8,3,5,66,6,13,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sheriff,Real Sociedad,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,34,2,8,3,1,8,3,5,66,6,13,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sheriff,Real Sociedad,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,34,2,8,3,1,8,3,5,66,6,13,1,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Roma,Real Betis,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,5,1,1,12,5,7,61,0,16,4,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Roma,Real Betis,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,5,1,1,12,5,7,61,0,16,4,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Roma,Real Betis,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,5,1,1,12,5,7,61,0,16,4,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Roma,Real Betis,A,1,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,4,11,39,6,5,1,1,12,5,7,61,0,16,4,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sporting Braga,Union Saint-Gilloise,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,55,2,15,2,0,18,6,12,45,3,21,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sporting Braga,Union Saint-Gilloise,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,55,2,15,2,0,18,6,12,45,3,21,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sporting Braga,Union Saint-Gilloise,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,55,2,15,2,0,18,6,12,45,3,21,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Sporting Braga,Union Saint-Gilloise,A,1,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,6,5,55,2,15,2,0,18,6,12,45,3,21,2,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Qarabağ,A,0,3,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,47,3,7,1,0,15,10,5,53,4,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Qarabağ,A,0,3,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,47,3,7,1,0,15,10,5,53,4,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Qarabağ,A,0,3,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,47,3,7,1,0,15,10,5,53,4,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Qarabağ,A,0,3,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,47,3,7,1,0,15,10,5,53,4,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Fenerbahçe,AEK Larnaca,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,68,4,18,2,0,7,2,5,32,2,12,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Fenerbahçe,AEK Larnaca,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,68,4,18,2,0,7,2,5,32,2,12,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Fenerbahçe,AEK Larnaca,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,68,4,18,2,0,7,2,5,32,2,12,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Fenerbahçe,AEK Larnaca,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,9,8,68,4,18,2,0,7,2,5,32,2,12,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Midtjylland,Feyenoord,D,2,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,56,6,13,6,0,13,5,8,44,1,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Midtjylland,Feyenoord,D,2,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,56,6,13,6,0,13,5,8,44,1,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Midtjylland,Feyenoord,D,2,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,56,6,13,6,0,13,5,8,44,1,16,3,0
+2022-10-06,Europe,Europa League,CUP,2022/2023,Midtjylland,Feyenoord,D,2,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,17,5,12,56,6,13,6,0,13,5,8,44,1,16,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Sociedad,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,8,19,71,5,3,1,0,2,0,2,29,1,2,3,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Sociedad,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,8,19,71,5,3,1,0,2,0,2,29,1,2,3,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Sociedad,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,8,19,71,5,3,1,0,2,0,2,29,1,2,3,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Sociedad,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,8,19,71,5,3,1,0,2,0,2,29,1,2,3,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Fenerbahçe,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,40,4,18,7,1,15,8,7,60,8,19,4,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Fenerbahçe,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,40,4,18,7,1,15,8,7,60,8,19,4,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Fenerbahçe,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,40,4,18,7,1,15,8,7,60,8,19,4,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Fenerbahçe,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,4,2,40,4,18,7,1,15,8,7,60,8,19,4,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ludogorets,HJK,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,6,21,63,7,6,1,0,6,1,5,37,1,14,5,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ludogorets,HJK,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,6,21,63,7,6,1,0,6,1,5,37,1,14,5,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ludogorets,HJK,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,6,21,63,7,6,1,0,6,1,5,37,1,14,5,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ludogorets,HJK,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,27,6,21,63,7,6,1,0,6,1,5,37,1,14,5,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Manchester United,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,34,11,23,78,13,8,0,0,3,1,2,22,1,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Manchester United,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,34,11,23,78,13,8,0,0,3,1,2,22,1,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Manchester United,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,34,11,23,78,13,8,0,0,3,1,2,22,1,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Manchester United,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,34,11,23,78,13,8,0,0,3,1,2,22,1,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Sporting Braga,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,43,4,16,2,0,15,7,8,57,4,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Sporting Braga,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,43,4,16,2,0,15,7,8,57,4,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Sporting Braga,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,43,4,16,2,0,15,7,8,57,4,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,Sporting Braga,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,43,4,16,2,0,15,7,8,57,4,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ferencváros,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,45,4,4,5,0,20,3,17,55,10,7,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ferencváros,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,45,4,4,5,0,20,3,17,55,10,7,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ferencváros,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,45,4,4,5,0,20,3,17,55,10,7,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Ferencváros,Crvena Zvezda,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,45,4,4,5,0,20,3,17,55,10,7,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Lazio,Sturm Graz,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,54,2,1,4,1,18,7,11,46,0,5,6,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Lazio,Sturm Graz,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,54,2,1,4,1,18,7,11,46,0,5,6,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Lazio,Sturm Graz,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,54,2,1,4,1,18,7,11,46,0,5,6,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Lazio,Sturm Graz,D,2,2,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,10,4,6,54,2,1,4,1,18,7,11,46,0,5,6,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Trabzonspor,Monaco,H,4,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,11,6,51,3,0,4,0,18,4,14,49,11,2,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Trabzonspor,Monaco,H,4,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,11,6,51,3,0,4,0,18,4,14,49,11,2,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Trabzonspor,Monaco,H,4,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,11,6,51,3,0,4,0,18,4,14,49,11,2,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Trabzonspor,Monaco,H,4,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,11,6,51,3,0,4,0,18,4,14,49,11,2,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Qarabağ,Olympiakos Piraeus,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,1,9,61,6,15,3,0,6,2,4,39,0,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Qarabağ,Olympiakos Piraeus,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,1,9,61,6,15,3,0,6,2,4,39,0,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Qarabağ,Olympiakos Piraeus,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,1,9,61,6,15,3,0,6,2,4,39,0,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Qarabağ,Olympiakos Piraeus,D,0,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,10,1,9,61,6,15,3,0,6,2,4,39,0,9,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Nantes,SC Freiburg,A,0,4,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,42,6,7,0,0,15,5,10,58,5,13,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Nantes,SC Freiburg,A,0,4,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,42,6,7,0,0,15,5,10,58,5,13,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Nantes,SC Freiburg,A,0,4,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,42,6,7,0,0,15,5,10,58,5,13,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Nantes,SC Freiburg,A,0,4,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,12,3,9,42,6,7,0,0,15,5,10,58,5,13,1,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Arsenal,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,46,3,9,1,0,8,1,7,54,5,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Arsenal,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,46,3,9,1,0,8,1,7,54,5,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Arsenal,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,46,3,9,1,0,8,1,7,54,5,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,Arsenal,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,46,3,9,1,0,8,1,7,54,5,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Betis,Roma,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,4,16,4,0,5,3,2,52,4,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Betis,Roma,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,4,16,4,0,5,3,2,52,4,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Betis,Roma,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,4,16,4,0,5,3,2,52,4,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Real Betis,Roma,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,7,2,5,48,4,16,4,0,5,3,2,52,4,8,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,PSV,Zürich,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,50,4,9,1,0,11,3,8,50,4,15,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,PSV,Zürich,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,50,4,9,1,0,11,3,8,50,4,15,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,PSV,Zürich,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,50,4,9,1,0,11,3,8,50,4,15,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,PSV,Zürich,H,5,0,H,3,0,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,50,4,9,1,0,11,3,8,50,4,15,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Malmö FF,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,44,2,16,5,0,3,0,3,56,2,10,6,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Malmö FF,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,44,2,16,5,0,3,0,3,56,2,10,6,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Malmö FF,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,44,2,16,5,0,3,0,3,56,2,10,6,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Malmö FF,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,17,8,9,44,2,16,5,0,3,0,3,56,2,10,6,1
+2022-10-13,Europe,Europa League,CUP,2022/2023,Feyenoord,Midtjylland,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,6,4,63,8,12,3,0,9,4,4,37,6,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Feyenoord,Midtjylland,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,6,4,63,8,12,3,0,9,4,4,37,6,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Feyenoord,Midtjylland,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,6,4,63,8,12,3,0,9,4,4,37,6,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Feyenoord,Midtjylland,D,2,2,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,14,6,4,63,8,12,3,0,9,4,4,37,6,7,3,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Rennes,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,52,6,13,3,0,15,3,12,48,9,19,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Rennes,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,52,6,13,3,0,15,3,12,48,9,19,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Rennes,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,52,6,13,3,0,15,3,12,48,9,19,2,0
+2022-10-13,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Rennes,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,52,6,13,3,0,15,3,12,48,9,19,2,0
+2022-10-20,Europe,Europa League,CUP,2022/2023,Arsenal,PSV,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,8,17,62,7,11,3,0,4,1,3,38,0,9,1,0
+2022-10-20,Europe,Europa League,CUP,2022/2023,Arsenal,PSV,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,8,17,62,7,11,3,0,4,1,3,38,0,9,1,0
+2022-10-20,Europe,Europa League,CUP,2022/2023,Arsenal,PSV,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,8,17,62,7,11,3,0,4,1,3,38,0,9,1,0
+2022-10-20,Europe,Europa League,CUP,2022/2023,Arsenal,PSV,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,25,8,17,62,7,11,3,0,4,1,3,38,0,9,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,SC Freiburg,Olympiakos Piraeus,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,66,9,7,1,0,7,2,5,34,0,8,8,1
+2022-10-27,Europe,Europa League,CUP,2022/2023,SC Freiburg,Olympiakos Piraeus,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,66,9,7,1,0,7,2,5,34,0,8,8,1
+2022-10-27,Europe,Europa League,CUP,2022/2023,SC Freiburg,Olympiakos Piraeus,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,66,9,7,1,0,7,2,5,34,0,8,8,1
+2022-10-27,Europe,Europa League,CUP,2022/2023,SC Freiburg,Olympiakos Piraeus,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,20,6,14,66,9,7,1,0,7,2,5,34,0,8,8,1
+2022-10-27,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Real Sociedad,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,36,1,9,3,0,17,4,13,64,2,14,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Real Sociedad,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,36,1,9,3,0,17,4,13,64,2,14,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Real Sociedad,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,36,1,9,3,0,17,4,13,64,2,14,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Omonia Nicosia,Real Sociedad,A,0,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,36,1,9,3,0,17,4,13,64,2,14,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Nantes,Qarabağ,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,41,6,10,2,0,11,7,4,59,9,10,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Nantes,Qarabağ,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,41,6,10,2,0,11,7,4,59,9,10,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Nantes,Qarabağ,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,41,6,10,2,0,11,7,4,59,9,10,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Nantes,Qarabağ,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,13,7,6,41,6,10,2,0,11,7,4,59,9,10,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Trabzonspor,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,38,2,14,2,0,15,7,8,62,4,9,0,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Trabzonspor,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,38,2,14,2,0,15,7,8,62,4,9,0,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Trabzonspor,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,38,2,14,2,0,15,7,8,62,4,9,0,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Crvena Zvezda,Trabzonspor,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,15,5,10,38,2,14,2,0,15,7,8,62,4,9,0,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dynamo Kyiv,D,3,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,44,3,17,1,0,10,6,4,56,3,16,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dynamo Kyiv,D,3,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,44,3,17,1,0,10,6,4,56,3,16,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dynamo Kyiv,D,3,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,44,3,17,1,0,10,6,4,56,3,16,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,AEK Larnaca,Dynamo Kyiv,D,3,3,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,11,4,7,44,3,17,1,0,10,6,4,56,3,16,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Lazio,Midtjylland,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,9,9,61,6,9,3,0,11,6,5,39,1,13,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Lazio,Midtjylland,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,9,9,61,6,9,3,0,11,6,5,39,1,13,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Lazio,Midtjylland,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,9,9,61,6,9,3,0,11,6,5,39,1,13,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Lazio,Midtjylland,H,2,1,D,1,1,N/A,N/A,N/A,N/A,N/A,N/A,18,9,9,61,6,9,3,0,11,6,5,39,1,13,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ferencváros,Monaco,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,46,4,10,4,0,13,3,10,54,4,10,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ferencváros,Monaco,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,46,4,10,4,0,13,3,10,54,4,10,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ferencváros,Monaco,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,46,4,10,4,0,13,3,10,54,4,10,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ferencváros,Monaco,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,9,3,6,46,4,10,4,0,13,3,10,54,4,10,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Rennes,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,62,5,12,2,0,6,4,2,38,1,20,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Rennes,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,62,5,12,2,0,6,4,2,38,1,20,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Rennes,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,62,5,12,2,0,6,4,2,38,1,20,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Fenerbahçe,Rennes,D,3,3,A,1,3,N/A,N/A,N/A,N/A,N/A,N/A,15,7,8,62,5,12,2,0,6,4,2,38,1,20,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Manchester United,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,24,10,14,75,8,6,1,0,0,0,0,25,0,9,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Manchester United,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,24,10,14,75,8,6,1,0,0,0,0,25,0,9,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Manchester United,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,24,10,14,75,8,6,1,0,0,0,0,25,0,9,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Manchester United,Sheriff,H,3,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,24,10,14,75,8,6,1,0,0,0,0,25,0,9,2,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Malmö FF,Union Saint-Gilloise,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,19,4,15,47,7,7,3,0,12,8,4,53,7,17,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Malmö FF,Union Saint-Gilloise,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,19,4,15,47,7,7,3,0,12,8,4,53,7,17,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Malmö FF,Union Saint-Gilloise,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,19,4,15,47,7,7,3,0,12,8,4,53,7,17,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Malmö FF,Union Saint-Gilloise,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,19,4,15,47,7,7,3,0,12,8,4,53,7,17,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Zürich,Bodø / Glimt,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,24,7,17,50,9,11,4,0,6,2,4,50,5,5,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Zürich,Bodø / Glimt,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,24,7,17,50,9,11,4,0,6,2,4,50,5,5,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Zürich,Bodø / Glimt,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,24,7,17,50,9,11,4,0,6,2,4,50,5,5,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Zürich,Bodø / Glimt,H,2,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,24,7,17,50,9,11,4,0,6,2,4,50,5,5,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Sporting Braga,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,39,7,16,3,0,6,4,2,61,1,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Sporting Braga,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,39,7,16,3,0,6,4,2,61,1,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Sporting Braga,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,39,7,16,3,0,6,4,2,61,1,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,FC Union Berlin,Sporting Braga,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,16,3,13,39,7,16,3,0,6,4,2,61,1,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,PSV,Arsenal,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,9,3,30,3,14,2,0,17,3,14,70,6,9,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,PSV,Arsenal,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,9,3,30,3,14,2,0,17,3,14,70,6,9,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,PSV,Arsenal,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,9,3,30,3,14,2,0,17,3,14,70,6,9,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,PSV,Arsenal,H,2,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,12,9,3,30,3,14,2,0,17,3,14,70,6,9,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Sturm Graz,Feyenoord,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,41,3,8,1,0,14,4,10,59,4,12,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Sturm Graz,Feyenoord,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,41,3,8,1,0,14,4,10,59,4,12,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Sturm Graz,Feyenoord,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,41,3,8,1,0,14,4,10,59,4,12,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Sturm Graz,Feyenoord,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,41,3,8,1,0,14,4,10,59,4,12,4,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,HJK,Roma,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,52,2,12,2,0,14,6,8,48,6,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,HJK,Roma,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,52,2,12,2,0,14,6,8,48,6,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,HJK,Roma,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,52,2,12,2,0,14,6,8,48,6,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,HJK,Roma,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,7,4,3,52,2,12,2,0,14,6,8,48,6,10,3,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ludogorets,Real Betis,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,54,4,13,2,0,5,1,4,46,2,11,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ludogorets,Real Betis,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,54,4,13,2,0,5,1,4,46,2,11,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ludogorets,Real Betis,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,54,4,13,2,0,5,1,4,46,2,11,1,0
+2022-10-27,Europe,Europa League,CUP,2022/2023,Ludogorets,Real Betis,A,0,1,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,54,4,13,2,0,5,1,4,46,2,11,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Qarabağ,SC Freiburg,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,55,9,13,4,1,7,1,6,45,1,13,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Qarabağ,SC Freiburg,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,55,9,13,4,1,7,1,6,45,1,13,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Qarabağ,SC Freiburg,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,55,9,13,4,1,7,1,6,45,1,13,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Qarabağ,SC Freiburg,D,1,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,7,7,55,9,13,4,1,7,1,6,45,1,13,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Rennes,AEK Larnaca,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,54,2,9,1,0,11,1,10,46,3,12,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Rennes,AEK Larnaca,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,54,2,9,1,0,11,1,10,46,3,12,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Rennes,AEK Larnaca,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,54,2,9,1,0,11,1,10,46,3,12,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Rennes,AEK Larnaca,D,1,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,14,3,11,54,2,9,1,0,11,1,10,46,3,12,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Feyenoord,Lazio,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,45,2,14,2,0,13,3,10,55,4,17,8,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Feyenoord,Lazio,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,45,2,14,2,0,13,3,10,55,4,17,8,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Feyenoord,Lazio,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,45,2,14,2,0,13,3,10,55,4,17,8,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Feyenoord,Lazio,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,45,2,14,2,0,13,3,10,55,4,17,8,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Trabzonspor,Ferencváros,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,64,5,9,3,0,6,2,4,36,2,15,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Trabzonspor,Ferencváros,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,64,5,9,3,0,6,2,4,36,2,15,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Trabzonspor,Ferencváros,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,64,5,9,3,0,6,2,4,36,2,15,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Trabzonspor,Ferencváros,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,18,6,12,64,5,9,3,0,6,2,4,36,2,15,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Sociedad,Manchester United,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,48,5,5,2,0,4,1,3,52,2,11,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Sociedad,Manchester United,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,48,5,5,2,0,4,1,3,52,2,11,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Sociedad,Manchester United,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,48,5,5,2,0,4,1,3,52,2,11,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Sociedad,Manchester United,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,14,4,10,48,5,5,2,0,4,1,3,52,2,11,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,PSV,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,51,12,5,2,0,8,7,1,49,3,4,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,PSV,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,51,12,5,2,0,8,7,1,49,3,4,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,PSV,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,51,12,5,2,0,8,7,1,49,3,4,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Bodø / Glimt,PSV,A,1,2,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,11,3,8,51,12,5,2,0,8,7,1,49,3,4,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Roma,Ludogorets,H,3,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,51,8,19,3,0,11,6,5,49,1,16,6,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Roma,Ludogorets,H,3,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,51,8,19,3,0,11,6,5,49,1,16,6,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Roma,Ludogorets,H,3,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,51,8,19,3,0,11,6,5,49,1,16,6,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Roma,Ludogorets,H,3,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,19,9,10,51,8,19,3,0,11,6,5,49,1,16,6,1
+2022-11-03,Europe,Europa League,CUP,2022/2023,Monaco,Crvena Zvezda,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,47,5,14,1,0,9,3,6,53,3,11,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Monaco,Crvena Zvezda,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,47,5,14,1,0,9,3,6,53,3,11,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Monaco,Crvena Zvezda,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,47,5,14,1,0,9,3,6,53,3,11,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Monaco,Crvena Zvezda,H,4,1,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,16,8,8,47,5,14,1,0,9,3,6,53,3,11,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Midtjylland,Sturm Graz,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,45,2,12,3,0,15,2,13,55,5,13,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Midtjylland,Sturm Graz,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,45,2,12,3,0,15,2,13,55,5,13,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Midtjylland,Sturm Graz,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,45,2,12,3,0,15,2,13,55,5,13,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Midtjylland,Sturm Graz,H,2,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,6,2,4,45,2,12,3,0,15,2,13,55,5,13,4,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Fenerbahçe,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,40,2,20,4,1,11,5,6,60,5,20,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Fenerbahçe,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,40,2,20,4,1,11,5,6,60,5,20,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Fenerbahçe,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,40,2,20,4,1,11,5,6,60,5,20,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Dynamo Kyiv,Fenerbahçe,A,0,2,A,0,2,N/A,N/A,N/A,N/A,N/A,N/A,5,1,4,40,2,20,4,1,11,5,6,60,5,20,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Betis,HJK,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,69,6,9,2,0,7,3,4,31,1,5,0,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Betis,HJK,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,69,6,9,2,0,7,3,4,31,1,5,0,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Betis,HJK,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,69,6,9,2,0,7,3,4,31,1,5,0,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Real Betis,HJK,H,3,0,H,2,0,N/A,N/A,N/A,N/A,N/A,N/A,22,8,14,69,6,9,2,0,7,3,4,31,1,5,0,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Nantes,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,60,4,3,1,0,11,5,6,40,5,15,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Nantes,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,60,4,3,1,0,11,5,6,40,5,15,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Nantes,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,60,4,3,1,0,11,5,6,40,5,15,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Olympiakos Piraeus,Nantes,A,0,2,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,13,5,8,60,4,3,1,0,11,5,6,40,5,15,2,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,FC Union Berlin,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,62,1,15,3,0,10,2,8,38,2,22,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,FC Union Berlin,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,62,1,15,3,0,10,2,8,38,2,22,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,FC Union Berlin,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,62,1,15,3,0,10,2,8,38,2,22,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Union Saint-Gilloise,FC Union Berlin,A,0,1,A,0,1,N/A,N/A,N/A,N/A,N/A,N/A,6,1,5,62,1,15,3,0,10,2,8,38,2,22,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sheriff,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,33,3,16,2,0,15,5,10,67,6,5,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sheriff,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,33,3,16,2,0,15,5,10,67,6,5,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sheriff,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,33,3,16,2,0,15,5,10,67,6,5,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sheriff,Omonia Nicosia,H,1,0,D,0,0,N/A,N/A,N/A,N/A,N/A,N/A,18,3,15,33,3,16,2,0,15,5,10,67,6,5,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Arsenal,Zürich,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,3,14,56,8,11,1,0,8,1,7,44,4,9,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Arsenal,Zürich,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,3,14,56,8,11,1,0,8,1,7,44,4,9,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Arsenal,Zürich,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,3,14,56,8,11,1,0,8,1,7,44,4,9,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Arsenal,Zürich,H,1,0,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,17,3,14,56,8,11,1,0,8,1,7,44,4,9,3,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sporting Braga,Malmö FF,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,2,18,64,7,14,1,0,7,3,4,36,1,10,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sporting Braga,Malmö FF,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,2,18,64,7,14,1,0,7,3,4,36,1,10,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sporting Braga,Malmö FF,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,2,18,64,7,14,1,0,7,3,4,36,1,10,1,0
+2022-11-03,Europe,Europa League,CUP,2022/2023,Sporting Braga,Malmö FF,H,2,1,H,1,0,N/A,N/A,N/A,N/A,N/A,N/A,20,2,18,64,7,14,1,0,7,3,4,36,1,10,1,0
